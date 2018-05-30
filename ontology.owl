@@ -1,0 +1,177 @@
+@prefix : <http://www.SRIW-G11/ontology/> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://es.dbpedia.org/resource/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/spec/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.SRIW-G11/ontology/> .
+
+<http://www.SRIW-G11/ontology/> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.SRIW-G11/ontology/hasCity
+:hasCity rdf:type owl:ObjectProperty ;
+         rdfs:domain :Departamentos_de_Colombia ;
+         rdfs:range dbo:city .
+
+
+###  http://www.SRIW-G11/ontology/hasDepartment
+:hasDepartment rdf:type owl:ObjectProperty ;
+               rdfs:domain dbo:country ;
+               rdfs:range :Departamentos_de_Colombia .
+
+
+###  http://www.SRIW-G11/ontology/hasPlaces
+:hasPlaces rdf:type owl:ObjectProperty ;
+           rdfs:domain dbo:city ;
+           rdfs:range dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/isCityOf
+:isCityOf rdf:type owl:ObjectProperty ;
+          rdfs:domain dbo:city ;
+          rdfs:range :Departamentos_de_Colombia .
+
+
+###  http://www.SRIW-G11/ontology/isDeaprtmentOf
+:isDeaprtmentOf rdf:type owl:ObjectProperty ;
+                rdfs:domain :Departamentos_de_Colombia ;
+                rdfs:range dbo:country .
+
+
+###  http://www.SRIW-G11/ontology/isLocatedIn
+:isLocatedIn rdf:type owl:ObjectProperty ;
+             rdfs:domain dbo:Place ;
+             rdfs:range dbo:city .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.SRIW-G11/ontology/Codigo_DANE
+:Codigo_DANE rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Departamentos_de_Colombia ;
+             rdfs:range xsd:int .
+
+
+###  http://www.SRIW-G11/ontology/descripcion
+:descripcion rdf:type owl:DatatypeProperty ;
+             rdfs:domain dbo:Place ;
+             rdfs:range xsd:string .
+
+
+###  http://www.SRIW-G11/ontology/email
+:email rdf:type owl:DatatypeProperty ;
+       rdfs:domain dbo:Place ;
+       rdfs:range xsd:string .
+
+
+###  http://www.SRIW-G11/ontology/lenguaje
+:lenguaje rdf:type owl:DatatypeProperty ;
+          rdfs:domain dbo:country ;
+          rdfs:range xsd:string .
+
+
+###  http://www.SRIW-G11/ontology/telefono
+:telefono rdf:type owl:DatatypeProperty ;
+          rdfs:domain dbo:Place ;
+          rdfs:range xsd:int .
+
+
+###  http://www.SRIW-G11/ontology/tipo
+:tipo rdf:type owl:DatatypeProperty ;
+      rdfs:domain dbo:Place ;
+      rdfs:range xsd:string .
+
+
+###  http://www.SRIW-G11/ontology/ubicacion
+:ubicacion rdf:type owl:DatatypeProperty ;
+           rdfs:domain dbo:Place ;
+           rdfs:range xsd:string .
+
+
+###  http://xmlns.com/foaf/0.1/name
+<http://xmlns.com/foaf/0.1/name> rdf:type owl:DatatypeProperty ;
+                                 rdfs:domain owl:Thing ;
+                                 rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://dbpedia.org/ontology/Place
+dbo:Place rdf:type owl:Class .
+
+
+###  http://dbpedia.org/ontology/city
+dbo:city rdf:type owl:Class .
+
+
+###  http://dbpedia.org/ontology/country
+dbo:country rdf:type owl:Class .
+
+
+###  http://www.SRIW-G11/ontology/Arquitectonico
+:Arquitectonico rdf:type owl:Class ;
+                rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Atractivo
+:Atractivo rdf:type owl:Class ;
+           rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Cultural
+:Cultural rdf:type owl:Class ;
+          owl:equivalentClass :Social ;
+          rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Deportivo
+:Deportivo rdf:type owl:Class ;
+           rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Hospedaje
+:Hospedaje rdf:type owl:Class ;
+           rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Natrural
+:Natrural rdf:type owl:Class ;
+          rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Recreacion
+:Recreacion rdf:type owl:Class ;
+            rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Restaurante
+:Restaurante rdf:type owl:Class ;
+             rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Social
+:Social rdf:type owl:Class ;
+        rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/Turismo
+:Turismo rdf:type owl:Class ;
+         rdfs:subClassOf dbo:Place .
+
+
+###  http://www.SRIW-G11/ontology/bdr:Departamentos_de_Colombia
+:Departamentos_de_Colombia rdf:type owl:Class .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi
