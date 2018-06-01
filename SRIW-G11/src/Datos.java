@@ -18,6 +18,10 @@ import org.apache.jena.query.ResultSetFormatter;
 import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
 
+import virtuoso.jena.driver.VirtGraph;
+import virtuoso.jena.driver.VirtuosoQueryExecution;
+import virtuoso.jena.driver.VirtuosoQueryExecutionFactory;
+
 import javax.swing.JButton;
 
 public class Datos extends JFrame {
@@ -49,52 +53,42 @@ public class Datos extends JFrame {
 	
 
 	
-	private ArrayList<Ciudad> datosCalificar() {
-		Model model = Ciudad.getModel();
-		ArrayList<Ciudad> puntosWifi;
-		String sparqlQueryString1 = "PREFIX base:<http://www.sistemarecomendacion.com/sitiosWifi#>"  //Prefijo propio de la ontologia
-				+ "SELECT DISTINCT ?municipio ?nombrePuntoWIFI ?tipo ?temperatura "
+	private ArrayList<Ciudad> datos() {
+		VirtGraph grafo = new VirtGraph ("onto","jdbc:virtuoso://18.219.194.215:1111", "dba", "dba"); 
+		ArrayList<Ciudad> ciudades;
+		String sparqlQuery = "PREFIX onto:<http://www.SRIW-G11/ontology/>"  			
+				+ "PREFIX foaf:<http://www.SRIW-G11/ontology/>"
+				+ "SELECT DISTINCT ?nombre ?descripcion ?ubicacion ?telefono "
 				+ "WHERE {"  			
-				+ "?departamento base:tiene ?municipio."							//Primera relacion objeto1->tiene->objeto2
-				+ "?municipio base:tiene ?puntoWIFI."								//Primera relacion objeto2->tiene->objeto3
-				+ "?departamento base:name ?nombreDepartamento."
-				+ "?puntoWIFI base:name ?nombrePuntoWIFI."
-				+ "?puntoWIFI base:tipo ?tipo."	
-				+ "?puntoWIFI base:temperatura ?temperatura." 										//En nuestra ontologia es posible que exista un 4to
+				+ "?x onto:descripcion ?descripcion,"									
+				+ "onto:ubicacion ?ubicacion,"										
+				+ "onto:telefono ?ntelefono,"
+				+ "foaf:name ?nombre."										
 				;
 		
-		Query q = QueryFactory.create(sparqlQueryString1);											//ya que solo los puntosWIFI tienen este tipo de 
-		qexec = QueryExecutionFactory.create(q,model);
-		//Validar la cantidad de filas
+		Query query = QueryFactory.create(sparqlQuery);	
+		VirtuosoQueryExecution vquery = VirtuosoQueryExecutionFactory.create (query, grafo);
 		try {
 
-			ResultSet results = qexec.execSelect();
+			ResultSet results = vquery.execSelect();
 			ciudades = new ArrayList<Ciudad>();
-			//ResultSetFormatter.out(System.out,results);
 			while ( results.hasNext() ) {
-				if(ciudades.size() == 4) {
-					QuerySolution soln = results.nextSolution();
-	                String nombre = soln.getLiteral("nombrePuntoWIFI").getString();
-	                String tipo = soln.getLiteral("tipo").getString();
-	                String temperatura = soln.getLiteral("temperatura").getString();
-	                ciudades.add(new Ciudad(nombre, tipo, temperatura));
-					break;
-				}
                 QuerySolution soln = results.nextSolution();
-                String nombre = soln.getLiteral("nombrePuntoWIFI").getString();
-                String tipo = soln.getLiteral("tipo").getString();
-                String temperatura = soln.getLiteral("temperatura").getString();
-                ciudades.add(new Ciudad(nombre, tipo, temperatura));
+                String nombre = soln.getLiteral("nombre").getString();
+                String descripcion = soln.getLiteral("descripcion").getString();
+                String ubicacion = soln.getLiteral("ubicacion").getString();
+                String telefono = soln.getLiteral("telefono").getString();
+                ciudades.add(new Ciudad(nombre, descripcion, ubicacion, telefono));
         	}
 		}finally {
-			qexec.close();
+			vquery.close();
 		}
 		return ciudades;
 	}
 	
 	private void CargarDatos(java.awt.event.ActionEvent evt){
-		ArrayList<Ciudad> puntosCalificar = datosCalificar();
+		ArrayList<Ciudad> puntos = datos();
 		this.setVisible(false);
-		(new Calificar(puntosCalificar, qexec)).setVisible(true);
+		//(new Calificar(puntos, vquery)).setVisible(true);
 	}
 }
