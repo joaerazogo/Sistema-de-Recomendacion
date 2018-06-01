@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:db="file:///home/jose/Descargas/d2rq-0.8.1/turismo.ttl"
+    xmlns:map="file:///home/jose/Descargas/d2rq-0.8.1/turismo.ttl#"
+    xmlns:vocab="file:///home/jose/Descargas/d2rq-0.8.1/vocab/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="file:///home/jose/Descargas/d2rq-0.8.1/turismo.ttl#" > 
+  <rdf:Description rdf:about="vocab/country_numeroHabitantes">
+    <rdfs:label>country numeroHabitantes</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_tipo">
+    <rdfs:label>place tipo</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/city_numeroHabitantes">
+    <rdfs:label>city numeroHabitantes</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/departamento">
+    <rdfs:label>departamento</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_ubicacion">
+    <rdfs:label>place ubicacion</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place">
+    <rdfs:label>place</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_name">
+    <rdfs:label>place name</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_codigoDANE">
+    <rdfs:label>place codigoDANE</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/city">
+    <rdfs:label>city</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_idlugar">
+    <rdfs:label>place idlugar</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/city_nombre">
+    <rdfs:label>city nombre</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_telefono">
+    <rdfs:label>place telefono</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_email">
+    <rdfs:label>place email</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/departamento_numeroHabitantes">
+    <rdfs:label>departamento numeroHabitantes</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/departamento_nombre">
+    <rdfs:label>departamento nombre</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/departamento_nombrePais">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/country">
+    <rdfs:label>country</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/country_nombre">
+    <rdfs:label>country nombre</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_descripcion">
+    <rdfs:label>place descripcion</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_nombreCiudad">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/place_language">
+    <rdfs:label>place language</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vocab/city_nombreDepartamento">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+</rdf:RDF>
