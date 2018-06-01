@@ -11,215 +11,430 @@
 
 <http://www.SRIW-G11/ontology/> rdf:type owl:Ontology .
 
+
 #################################################################
+#
 #    Object Properties
+#
 #################################################################
 
+
 ###  http://www.SRIW-G11/ontology/hasCapital
-:hasCapital rdf:type owl:ObjectProperty ;
-            owl:inverseOf :isCapitalOf ;
-            rdf:type owl:FunctionalProperty ;
+
+:hasCapital rdf:type owl:FunctionalProperty ,
+                     owl:ObjectProperty ;
+            
+            rdfs:range dbo:city ;
+            
             rdfs:domain dbo:country ;
-            rdfs:range dbo:city .
+            
+            owl:inverseOf :isCapitalOf .
+
 
 
 ###  http://www.SRIW-G11/ontology/hasCity
+
 :hasCity rdf:type owl:ObjectProperty ;
-         rdfs:domain dbr:Departamentos_de_Colombia ;
-         rdfs:range dbo:city .
+         
+         rdfs:range dbo:city ;
+         
+         rdfs:domain dbr:Departamentos_de_Colombia .
+
 
 
 ###  http://www.SRIW-G11/ontology/hasDepartment
+
 :hasDepartment rdf:type owl:ObjectProperty ;
+               
                rdfs:domain dbo:country ;
+               
                rdfs:range dbr:Departamentos_de_Colombia .
 
 
+
 ###  http://www.SRIW-G11/ontology/hasPlaces
+
 :hasPlaces rdf:type owl:ObjectProperty ;
-           rdfs:domain dbo:city ;
-           rdfs:range dbo:Place .
+           
+           rdfs:range dbo:Place ;
+           
+           rdfs:domain dbo:city .
+
 
 
 ###  http://www.SRIW-G11/ontology/isCapitalOf
-:isCapitalOf rdf:type owl:ObjectProperty ,
-                      owl:InverseFunctionalProperty ;
+
+:isCapitalOf rdf:type owl:InverseFunctionalProperty ,
+                      owl:ObjectProperty ;
+             
              rdfs:domain dbo:city ;
+             
              rdfs:range dbo:country .
 
 
+
 ###  http://www.SRIW-G11/ontology/isCityOf
+
 :isCityOf rdf:type owl:ObjectProperty ;
+          
           rdfs:domain dbo:city ;
+          
           rdfs:range dbr:Departamentos_de_Colombia .
 
 
+
 ###  http://www.SRIW-G11/ontology/isCloseTo
+
 :isCloseTo rdf:type owl:ObjectProperty ,
                     owl:SymmetricProperty ,
                     owl:TransitiveProperty ;
+           
            rdfs:domain dbo:city ;
+           
            rdfs:range dbo:city .
 
 
+
 ###  http://www.SRIW-G11/ontology/isDeaprtmentOf
+
 :isDeaprtmentOf rdf:type owl:ObjectProperty ;
-                rdfs:domain dbr:Departamentos_de_Colombia ;
-                rdfs:range dbo:country .
+                
+                rdfs:range dbo:country ;
+                
+                rdfs:domain dbr:Departamentos_de_Colombia .
+
 
 
 ###  http://www.SRIW-G11/ontology/isLocatedIn
+
 :isLocatedIn rdf:type owl:ObjectProperty ;
+             
              rdfs:domain dbo:Place ;
+             
              rdfs:range dbo:city .
 
 
+
+
+
 #################################################################
+#
 #    Data properties
+#
 #################################################################
 
+
 ###  http://www.SRIW-G11/ontology/Codigo_DANE
+
 :Codigo_DANE rdf:type owl:DatatypeProperty ;
+             
              rdfs:domain dbr:Departamentos_de_Colombia ;
+             
              rdfs:range xsd:int .
 
 
+
 ###  http://www.SRIW-G11/ontology/descripcion
+
 :descripcion rdf:type owl:DatatypeProperty ;
+             
              rdfs:domain dbo:Place ;
+             
              rdfs:range xsd:string .
 
 
+
 ###  http://www.SRIW-G11/ontology/email
+
 :email rdf:type owl:DatatypeProperty ;
+       
        rdfs:domain dbo:Place ;
+       
        rdfs:range xsd:string .
 
 
+
 ###  http://www.SRIW-G11/ontology/lenguaje
+
 :lenguaje rdf:type owl:DatatypeProperty ;
+          
           rdfs:domain dbo:country ;
+          
           rdfs:range xsd:string .
 
 
+
 ###  http://www.SRIW-G11/ontology/telefono
+
 :telefono rdf:type owl:DatatypeProperty ;
+          
           rdfs:domain dbo:Place ;
+          
           rdfs:range xsd:int .
 
 
+
 ###  http://www.SRIW-G11/ontology/tipo
+
 :tipo rdf:type owl:DatatypeProperty ;
+      
       rdfs:domain dbo:Place ;
+      
       rdfs:range xsd:string .
 
 
+
 ###  http://www.SRIW-G11/ontology/ubicacion
+
 :ubicacion rdf:type owl:DatatypeProperty ;
+           
            rdfs:domain dbo:Place ;
+           
            rdfs:range xsd:string .
 
 
+
 ###  http://xmlns.com/foaf/0.1/name
+
 <http://xmlns.com/foaf/0.1/name> rdf:type owl:DatatypeProperty ;
-                                 rdfs:domain owl:Thing ;
-                                 rdfs:range xsd:string .
+                                 
+                                 rdfs:range xsd:string ;
+                                 
+                                 rdfs:domain owl:Thing .
+
+
+
 
 
 #################################################################
+#
 #    Classes
+#
 #################################################################
+
 
 ###  http://dbpedia.org/ontology/Place
+
 dbo:Place rdf:type owl:Class .
 
 
+
 ###  http://dbpedia.org/ontology/city
+
 dbo:city rdf:type owl:Class .
 
 
+
 ###  http://dbpedia.org/ontology/country
+
 dbo:country rdf:type owl:Class ;
+            
             rdfs:subClassOf [ rdf:type owl:Restriction ;
                               owl:onProperty :hasCapital ;
                               owl:maxCardinality "1"^^xsd:nonNegativeInteger
                             ] .
 
 
+
 ###  http://es.dbpedia.org/resource/Departamentos_de_Colombia
+
 dbr:Departamentos_de_Colombia rdf:type owl:Class ;
+                              
                               rdfs:subClassOf [ rdf:type owl:Restriction ;
                                                 owl:onProperty :hasCity ;
                                                 owl:someValuesFrom dbo:city
                                               ] .
 
 
+
 ###  http://www.SRIW-G11/ontology/Arquitectonico
+
 :Arquitectonico rdf:type owl:Class ;
+                
                 rdfs:subClassOf dbo:Place ;
+                
                 owl:disjointWith :Recreacion .
 
 
+
 ###  http://www.SRIW-G11/ontology/Atractivo
+
 :Atractivo rdf:type owl:Class ;
+           
            rdfs:subClassOf dbo:Place .
+
 
 
 ###  http://www.SRIW-G11/ontology/Cultural
+
 :Cultural rdf:type owl:Class ;
+          
           owl:equivalentClass :Social ;
+          
           rdfs:subClassOf dbo:Place .
+
 
 
 ###  http://www.SRIW-G11/ontology/Deportivo
+
 :Deportivo rdf:type owl:Class ;
+           
            rdfs:subClassOf dbo:Place .
+
 
 
 ###  http://www.SRIW-G11/ontology/Hospedaje
+
 :Hospedaje rdf:type owl:Class ;
+           
            rdfs:subClassOf dbo:Place .
 
 
+
 ###  http://www.SRIW-G11/ontology/Natrural
+
 :Natrural rdf:type owl:Class ;
+          
           rdfs:subClassOf dbo:Place .
 
 
+
 ###  http://www.SRIW-G11/ontology/NoRecomendable
+
 :NoRecomendable rdf:type owl:Class ;
-                owl:equivalentClass [ owl:intersectionOf ( dbo:Place
+                
+                owl:equivalentClass [ rdf:type owl:Class ;
+                                      owl:intersectionOf ( dbo:Place
                                                            [ rdf:type owl:Class ;
                                                              owl:complementOf :Turismo
                                                            ]
-                                                         ) ;
-                                      rdf:type owl:Class
+                                                         )
                                     ] .
 
 
+
 ###  http://www.SRIW-G11/ontology/Recreacion
+
 :Recreacion rdf:type owl:Class ;
+            
             rdfs:subClassOf dbo:Place .
 
 
+
 ###  http://www.SRIW-G11/ontology/Restaurante
+
 :Restaurante rdf:type owl:Class ;
+             
              rdfs:subClassOf dbo:Place .
 
 
+
 ###  http://www.SRIW-G11/ontology/Social
+
 :Social rdf:type owl:Class ;
+        
         rdfs:subClassOf dbo:Place .
 
 
+
 ###  http://www.SRIW-G11/ontology/Turismo
+
 :Turismo rdf:type owl:Class ;
+         
          rdfs:subClassOf dbo:Place .
 
 
+
+
+
 #################################################################
+#
+#    Individuals
+#
+#################################################################
+
+
+###  http://www.SRIW-G11/ontology/ARVI
+
+:ARVI rdf:type :Turismo ,
+               owl:NamedIndividual ;
+      
+      :tipo "turismo" ;
+      
+      <http://xmlns.com/foaf/0.1/name> "Arvi" ;
+      
+      :telefono "" .
+
+
+
+###  http://www.SRIW-G11/ontology/Atanasio_girardot
+
+:Atanasio_girardot rdf:type :Deportivo ,
+                            owl:NamedIndividual ;
+                   
+                   <http://xmlns.com/foaf/0.1/name> "Estadio Atanasio Girardot" ;
+                   
+                   :descripcion "Estadio deportivo de la ciudad de medellin" ;
+                   
+                   :ubicacion "Medellin" ;
+                   
+                   :hasPlaces :Atanasio_girardot .
+
+
+
+###  http://www.SRIW-G11/ontology/Malecon_de_Puerto_Colombia
+
+:Malecon_de_Puerto_Colombia rdf:type owl:NamedIndividual ;
+                            
+                            <http://xmlns.com/foaf/0.1/name> "Malecon de Puerto Colombia" ;
+                            
+                            :descripcion "El malecón bordea el municipio de Puerto Colombia con el mar. Con la construcción de espolones se ha generado una zona de playas" .
+
+
+
+###  http://www.SRIW-G11/ontology/Medellin
+
+:Medellin rdf:type dbo:city ,
+                   owl:NamedIndividual ;
+          
+          <http://xmlns.com/foaf/0.1/name> "Medellin" ;
+          
+          :lenguaje """Español
+""" .
+
+
+
+###  http://www.SRIW-G11/ontology/Museo_Antropológico_y_Etnológico
+
+:Museo_Antropológico_y_Etnológico rdf:type :Arquitectonico ,
+                                           :Cultural ,
+                                           owl:NamedIndividual ;
+                                  
+                                  <http://xmlns.com/foaf/0.1/name> "Museo Antropológico y Etnológico" ;
+                                  
+                                  :telefono "575 3399000" ;
+                                  
+                                  :descripcion "Tiene por sede una palaciega edificación republicana donde también funciona la Facultad de Bellas Artes adscrita a la Universidad del Atlántico" .
+
+
+
+###  http://www.SRIW-G11/ontology/Polideportivo_Rincon
+
+:Polideportivo_Rincon rdf:type :Recreacion ,
+                               owl:NamedIndividual ;
+                      
+                      <http://xmlns.com/foaf/0.1/name> "Polideportivo Rincon" .
+
+
+
+
+
+#################################################################
+#
 #    General axioms
+#
 #################################################################
+
 
 [ rdf:type owl:AllDisjointClasses ;
   owl:members ( dbo:Place
@@ -230,4 +445,7 @@ dbr:Departamentos_de_Colombia rdf:type owl:Class ;
 ] .
 
 
-###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi
+
+
+###  Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net
+

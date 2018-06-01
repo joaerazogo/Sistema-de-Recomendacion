@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="https://www.datos.gov.co/resource/" xmlns:ds="https://www.datos.gov.co/resource/cvnw-kgjy/" xmlns:usps="http://www.w3.org/2000/10/swap/pim/usps#">
+<dsbase:cvnw-kgjy rdf:about="https://www.datos.gov.co/resource/cvnw-kgjy/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/cvnw-kgjy"/>
+    <ds:lactitud>4986003</ds:lactitud>
+    <ds:longitud>-75611815</ds:longitud>
+    <ds:nombre_del_sitio>Polideportivo Rincon</ds:nombre_del_sitio>
+    <ds:uso>Recreativo</ds:uso>
+    <ds:promedio_personas_dia>250</ds:promedio_personas_dia>
+    <ds:localizaci_n><geo:SpatialThing/></ds:localizaci_n>
+    <foaf:document rdf:resource="https://www.google.com.co/maps/uv?hl=es&amp;pb=!1s0x8e477c0ec3c46a49:0x4e779a0f26cec31f!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps://picasaweb.google.com/lh/sredir?uname%3D104717503668386186493%26id%3D6422646478634234338%26target%3DPHOTO!5sestadio+verdum+-+Buscar+con+Google&amp;imagekey=!1e3!2s-8cH9YDMHUGM/WSHS8ZToMeI/AAAAAAAAC9c/S1t9TuOFFoE28KVA6hmBOYvnU5mczUg4wCLIB&amp;sa=X&amp;ved=0ahUKEwiWx-DG97jVAhXJNSYKHTQ_B3IQoioIfTAO"/></dsbase:cvnw-kgjy>
+<dsbase:cvnw-kgjy rdf:about="https://www.datos.gov.co/resource/cvnw-kgjy/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/cvnw-kgjy"/>
+    <ds:lactitud>4985195</ds:lactitud>
+    <ds:longitud>-75611245</ds:longitud>
+    <ds:nombre_del_sitio>Parque bengala</ds:nombre_del_sitio>
+    <ds:uso>Recreativo</ds:uso>
+    <ds:promedio_personas_dia>80</ds:promedio_personas_dia>
+    <ds:localizaci_n><geo:SpatialThing/></ds:localizaci_n></dsbase:cvnw-kgjy>
+<dsbase:cvnw-kgjy rdf:about="https://www.datos.gov.co/resource/cvnw-kgjy/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/cvnw-kgjy"/>
+    <ds:lactitud>4985099</ds:lactitud>
+    <ds:longitud>-75610548</ds:longitud>
+    <ds:nombre_del_sitio>Parque infantil Bengala</ds:nombre_del_sitio>
+    <ds:uso>Recreativo</ds:uso>
+    <ds:promedio_personas_dia>30</ds:promedio_personas_dia>
+    <ds:localizaci_n><geo:SpatialThing/></ds:localizaci_n></dsbase:cvnw-kgjy>
+<dsbase:cvnw-kgjy rdf:about="https://www.datos.gov.co/resource/cvnw-kgjy/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/cvnw-kgjy"/>
+    <ds:lactitud>4985863</ds:lactitud>
+    <ds:longitud>-75609694</ds:longitud>
+    <ds:nombre_del_sitio>Cancha La Paz</ds:nombre_del_sitio>
+    <ds:uso>Recreativo</ds:uso>
+    <ds:promedio_personas_dia>150</ds:promedio_personas_dia>
+    <ds:localizaci_n><geo:SpatialThing/></ds:localizaci_n></dsbase:cvnw-kgjy>
+<dsbase:cvnw-kgjy rdf:about="https://www.datos.gov.co/resource/cvnw-kgjy/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/cvnw-kgjy"/>
+    <ds:lactitud>4982350</ds:lactitud>
+    <ds:longitud>-75610717</ds:longitud>
+    <ds:nombre_del_sitio>Cancha la Doctora</ds:nombre_del_sitio>
+    <ds:uso>Recreativo</ds:uso>
+    <ds:promedio_personas_dia>450</ds:promedio_personas_dia>
+    <ds:localizaci_n><geo:SpatialThing/></ds:localizaci_n></dsbase:cvnw-kgjy>
+<dsbase:cvnw-kgjy rdf:about="https://www.datos.gov.co/resource/cvnw-kgjy/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/cvnw-kgjy"/>
+    <ds:lactitud>4977577</ds:lactitud>
+    <ds:longitud>-75605352</ds:longitud>
+    <ds:nombre_del_sitio>Estadio Verdum</ds:nombre_del_sitio>
+    <ds:uso>Recreativo</ds:uso>
+    <ds:promedio_personas_dia>500</ds:promedio_personas_dia>
+    <ds:localizaci_n><geo:SpatialThing/></ds:localizaci_n></dsbase:cvnw-kgjy>
+<dsbase:cvnw-kgjy rdf:about="https://www.datos.gov.co/resource/cvnw-kgjy/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/cvnw-kgjy"/>
+    <ds:lactitud>4980804</ds:lactitud>
+    <ds:longitud>-75601684</ds:longitud>
+    <ds:nombre_del_sitio>Cancha Centenario</ds:nombre_del_sitio>
+    <ds:uso>Recreativo</ds:uso>
+    <ds:promedio_personas_dia>120</ds:promedio_personas_dia>
+    <ds:localizaci_n><geo:SpatialThing/></ds:localizaci_n></dsbase:cvnw-kgjy></rdf:RDF>

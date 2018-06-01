@@ -1,0 +1,912 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="https://www.datos.gov.co/resource/" xmlns:ds="https://www.datos.gov.co/resource/ajwu-p33t/">
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Alcaldia</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>En esta edificación funcionan. la alcaldía y la biblioteca de puerto Colombia. Fueron restaurados recientemente y ofrecen  un hermoso conjunto en la plaza principal del municipio.</ds:descripcion>
+    <ds:nombremunicipio>Puerto Colombia</ds:nombremunicipio>
+    <ds:direccion>centro del municipio</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estacion Montoya</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta bella edificación se erigió a fines del siglo XIX por la companía Ralway and Pier Co. La estación  que se usaba como terminal de trenes en aquel tiempo  conectaba el muelle fluvial con el Puerto Colombia.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Calle 39 contiguo al edificio de la Aduana</ds:direccion>
+    <ds:telefono>575 3399000</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estadio Municipal Victor Danilo Pacheco</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta obra fue construida bajo el mandato del alcalde Victor Manuel Polo Guette el 13 de septiembre del ano 2003  en honor del reconocido y destacado futbolista nacido en ese municipio</ds:descripcion>
+    <ds:nombremunicipio>Suan</ds:nombremunicipio>
+    <ds:direccion>Enfrente del Cementerio Municipal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>El Malecon de Santa Lucia</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Este paseo peatonal tiene una extensión de alrededor de 3 km y bordea el pueblo con el canal del dique.</ds:descripcion>
+    <ds:nombremunicipio>Santa Lucia</ds:nombremunicipio>
+    <ds:direccion>Al limite del municipio con el canal de Dique</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>El Parque de la Iglesia</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Este es el parque en donde se realizan las diferentes festividades del municipio  tales como las fiestas patronales  son de negros y otras celebraciones especiales</ds:descripcion>
+    <ds:nombremunicipio>Santa Lucia</ds:nombremunicipio>
+    <ds:direccion>Carretera la Cordialidad</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Parque Industrial de Malambo S.A  PIMSA</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es un condominio industrial privado que cuenta con una completa infraestructura de servicios  orientados a garantizar reducciones en los costos a las empresas que se ubiquen en sus instalaciones. Fue el primer Parque Industrial autorizado en Colombia.</ds:descripcion>
+    <ds:nombremunicipio>Malambo</ds:nombremunicipio>
+    <ds:direccion>Km. 3 vía Malambo-Sabanagrande</ds:direccion>
+    <ds:telefono>575 3478500</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de Santo Tomás</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>En esta Iglesia se encuentra el monumento del Santo Sepulcro  donde se ofician las misas con la mayoría de la población que es católica</ds:descripcion>
+    <ds:nombremunicipio>Santo Tomas</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Unidad Pastoral Santo Domingo de Guzman</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Iglesia construida en el siglo XX  ubicada en la parte más alta del municipio de Usiacurí y cuenta con valor histórico y arquitectónico significativo para sus moradores</ds:descripcion>
+    <ds:nombremunicipio>Usiacuri</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa de la cultura y biblioteca municipal</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Edificación que cuenta con salones donde se llevan a cabo reuniones con la comunidad y  se guardan los accesorios que se utilizan para la escenografía de la Loa de los Reyes Magos.</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Carrera 19 No. 17 – 8</ds:direccion>
+    <ds:telefono>575 8789212</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Parador Turístico Sombrero Vueltiao</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>El primer parador turístico de su estilo ubicado a la altura del balneario de Santa Verónica. Lo más llamativo de este parador es su diseno: Se trata del sombrero vueltiao  símbolo nacional  es el más grande del mundo  elaborado en hierro y revestido de concreto.</ds:descripcion>
+    <ds:nombremunicipio>Juan de Acosta</ds:nombremunicipio>
+    <ds:direccion>Vía al mar  km 70 vía a Cartagena</ds:direccion>
+    <ds:telefono>3176488091</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>El Malecon de Suan</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Este paseo peatonal bordea el pueblo con el canal del dique.</ds:descripcion>
+    <ds:nombremunicipio>Suan</ds:nombremunicipio>
+    <ds:direccion>Al limite del municipio con el canal de Dique</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Piedra del Sacrificio</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Se encuentra ubicado en la calle de las lamentaciones  se dice que en este lugar se realizaban sacrificios humanos y animales por motivo de los ritos que hacían los miembros de la tribu mokana.</ds:descripcion>
+    <ds:nombremunicipio>Tubará</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estacion Del Ferrocarril</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Inicialmente se denominó Ferrocarril de Barranquilla  pues unía esta ciudad con Puerto Colombia.</ds:descripcion>
+    <ds:nombremunicipio>Puerto Colombia</ds:nombremunicipio>
+    <ds:direccion>Barrio centro Calle 2 carrera 4</ds:direccion>
+    <ds:telefono>575 3096120</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Catedral Metropolitana María Reina</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es una  edificación de estilo modernista cuya construcción tomó  27 anos y fue disenada por el arquitecto italiano Angelo  Mazzoni de Grande.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carrera 45  53-140</ds:direccion>
+    <ds:telefono>575 3494077</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estatua de Simon Bolivar</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Estatua representativa de Simón Bolívar</ds:descripcion>
+    <ds:nombremunicipio>Polonuevo</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de San José</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Estilo arquitectónico Neogótico Florentino</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Calle 39 Centro Histórico</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Pozo de San Luis</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Pozo construido entre 1562 – 1565 con piedras y calicanto (mezcla de cal y arena)  tiene una profundidad de 12 mts.</ds:descripcion>
+    <ds:nombremunicipio>Tubará</ds:nombremunicipio>
+    <ds:direccion>Barrio Abajo o San Luis</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Ludoteca</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es el lugar donde se estimulan actividades recreativas y académicas para los ninos y jóvenes del municipio  con el fin de motivar al aprovechamiento del tiempo libre</ds:descripcion>
+    <ds:nombremunicipio>Sabanagrande</ds:nombremunicipio>
+    <ds:direccion>Carretera Oriental</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San Benito Abad</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>fue construida poco a poco a través de varias actividades  y luego se le hizo una inversión privada que fue destinado para construir las torres. Junio 13 de 1961.</ds:descripcion>
+    <ds:nombremunicipio>Repelón</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Puerto de Barranquilla</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Se accede por Bocas de Ceniza y se creó en el ano 1936 para fomentar el comercio marítimo internacional de la ciudad y del país</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Margen oeste del río Magdalena</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Capilla del Barrio San Juan de Bosco</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta capilla es una obra arquitectónica-religiosa ubicada en el barrio San Juan Bosco  que fue construida con ayuda de la comunidad y las entidades gubernamentales del municipio</ds:descripcion>
+    <ds:nombremunicipio>Sabanagrande</ds:nombremunicipio>
+    <ds:direccion>Barrio San Juan Bosco</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Parque Espejo de Agua</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Se encuentra ubicado en la entrada del municipio. Es una zona utilizada para la recreación de colegios y la comunidad en general. En su inicio contaba con un cuerpo de agua en el que se realizaban paseos con  bicicleta acuática y botes.</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Vía principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Ángel de Obregón</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Una verdadera obra de arte  elaborada en marzo de 1964  por el pintor Colombo – Espanol Alejandro Obregón  ubicada en un mausoleo  del cementerio municipal de Juan de Acosta.</ds:descripcion>
+    <ds:nombremunicipio>Juan de Acosta</ds:nombremunicipio>
+    <ds:direccion>Cementerio Municipal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San Luis Beltran</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta iglesia se construyó en varias etapas  hasta llegar al bello monumento arquitectónico que vemos hoy. En 1926 se termina la estructura básica de la Iglesia  en 1952 se construyen sus torres y en 1963 se construye la cúpula sobre el altar mayor.</ds:descripcion>
+    <ds:nombremunicipio>Manatí</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San Antonio de Padua</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Su historia se remonta a los anos 1569  cuando llega la comunidad de los predicadores de Santo Domingo (Dominicos)  y se instalan en jurisdicción de lo que hoy es Soledad.</ds:descripcion>
+    <ds:nombremunicipio>Soledad</ds:nombremunicipio>
+    <ds:direccion>Plaza central</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Aeropuerto Internacional Ernesto Cortissoz</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es el aeropuerto internacional que sirve a la ciudad de Barranquilla. Debe su nombre a uno de los pioneros de la aviación en el mundo  Ernesto Cortissoz. Fue inaugurado en 1981 y está operativo desde 1979.</ds:descripcion>
+    <ds:nombremunicipio>Soledad</ds:nombremunicipio>
+    <ds:direccion>Carretera Oriental</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa del Carnaval</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es una casona construida en 1929 por el maestro Luis Gutiérrez de la Hoz  la cual se llamó Quinta Turín. Está situada en el barrio Abajo  uno de los primeros de la ciudad y donde nacieron las danzas típicas del Carnaval.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carrera 54 No. 49B - 39</ds:direccion>
+    <ds:telefono>575 379 66 25</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia  La Candelaria</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Iglesia Municipal</ds:descripcion>
+    <ds:nombremunicipio>Galapa</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Ecoparque</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es un espacio amplio dotado con vegetación y muchos insumos para la recreación  como canchas múltiples y espacios de entretenimientos  además cuenta con una tarima donde se realizan eventos de esparcimientos tales como conciertos.</ds:descripcion>
+    <ds:nombremunicipio>Sabanagrande</ds:nombremunicipio>
+    <ds:direccion>Carretera Oriental</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Villa Hawai</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Cuenta con servicio de restaurante  comidas típicas de la región  canchas deportivas  piscinas para adultos y ninos  billar  kioscos</ds:descripcion>
+    <ds:nombremunicipio>Sabanagrande</ds:nombremunicipio>
+    <ds:direccion>Carretera Oriental</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de Juan de Acosta</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Fue construida en el ano 1926  mediante el decreto 185 de Abril 20 de 1957  el obispo Francisco Gallego Pérez declara Parroquia a la Iglesia de Juan de Acosta</ds:descripcion>
+    <ds:nombremunicipio>Juan de Acosta</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Parque Ecopedagogico Mururoa</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>El parque tiene un área de 2 hectáreas  el cual nació con la ideas de los estudiantes.  En el sendero del parque  se encuentran pequenos kioskos con sillas y mesas elaboradas con materiales de la región.</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Entrada principal del municipio</ds:direccion>
+    <ds:telefono>575 8789465</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San Vicente de Ferrer</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>En su interior tiene la imagen de San Vicente de Ferrer  que según la leyenda llegó al pueblo por una equivocación  ya que los habitantes esperaban la imagen de San José. Al principio era una capilla y fue erigida parroquia el 20 de Abril de 1.957.</ds:descripcion>
+    <ds:nombremunicipio>Candelaria</ds:nombremunicipio>
+    <ds:direccion>Ubicada en el centro del municipio</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Capilla Santa Lucía</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Iglesia Municipal</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa Antigua Higgins</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>La casa  fue construida aproximadamente hace 170 anos  con materiales y  con techo de palma amarga.  En su interior se pueden observar muebles  cuadros  fotografías y elementos pertenecientes a esta familia.</ds:descripcion>
+    <ds:nombremunicipio>Juan de Acosta</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Cruz Vieja</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Lugar de destino donde llegan los Penitentes del municipio de Santo Tomás y sus alrededores  el día Viernes Santo</ds:descripcion>
+    <ds:nombremunicipio>Santo Tomas</ds:nombremunicipio>
+    <ds:direccion>Calle de los Penitentes</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Museo Antropológico y Etnológico</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Tiene por sede una palaciega edificación republicana donde también funciona la Facultad de Bellas Artes adscrita a la Universidad del Atlántico.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Calle 68 No. 53 - 45</ds:direccion>
+    <ds:telefono>575 3399000</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Monumento al Indio Malambeno</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta escultura representa al Cacique Malam  del cual todo malambeno es descendiente de el. Fue un indio inteligente  agricultor  cazador  alfarero el cual siempre el pueblo recordara.</ds:descripcion>
+    <ds:nombremunicipio>Malambo</ds:nombremunicipio>
+    <ds:direccion>Cra 8 N° 10B – 131</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Muelle</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>El muelle de Puerto Colombia fue un sitio atractivo por los turistas   era un sitio muy agradable para caminar y contemplar el paisaje que ofrece este sitio</ds:descripcion>
+    <ds:nombremunicipio>Puerto Colombia</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de Polonuevo</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>La Iglesia de Polonuevo esta ubicada en la plaza central del municipio. En su interior se han hecho mejoras arquitectónicas  en los últimos anos.</ds:descripcion>
+    <ds:nombremunicipio>Polonuevo</ds:nombremunicipio>
+    <ds:direccion>Plaza central</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia  Inmaculada Concepcion</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta Iglesia recibe el nombre debido a la patrona de Suán  Inmaculada Concepción .</ds:descripcion>
+    <ds:nombremunicipio>Suan</ds:nombremunicipio>
+    <ds:direccion>Plaza central</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa de la Cultura</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Edificación que cuenta con salones donde se llevan a cabo reuniones con la comunidad y  se practican actos musicales  de danza y teatro</ds:descripcion>
+    <ds:nombremunicipio>Santo Tomas</ds:nombremunicipio>
+    <ds:direccion>Via Principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Monumento A Las Madres</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Monumento construido en honor a las madres del mundo</ds:descripcion>
+    <ds:nombremunicipio>Galapa</ds:nombremunicipio>
+    <ds:direccion>Parque plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Cementerio de Tubara</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>En las paredes se encuentran pictogramas de la etnia Mocaná.En el costado izquierdo de la capilla del cementerio se encuentra la ermita de la primera iglesia que construyo San Luis Beltrán.</ds:descripcion>
+    <ds:nombremunicipio>Tubará</ds:nombremunicipio>
+    <ds:direccion>Barrio la Ermita</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Busto Neison Insignares Serra</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Busto conmemorativo a Neison Insignares Serra  ex – Alcalde del Municipio.</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Plaza Principal de Juan de Acosta</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Lugar de encuentro de amigos y familias caracterizado por ser muestra de la cultura tradicional de los habitantes de este municipio.</ds:descripcion>
+    <ds:nombremunicipio>Juan de Acosta</ds:nombremunicipio>
+    <ds:direccion>Calle 6 A</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Piedra Pintada</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es un petrogrifo o roca tallada que plasma la cosmovisión de los mokana. Uno de los sitios turísticos en donde los turistas y visitantes pueden  practicar el senderismo y disfrutar de la flora y fauna de la región.</ds:descripcion>
+    <ds:nombremunicipio>Tubará</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa de la Cultura</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Fue creada con la finalidad de consolidar procesos de desarrollo cultural que incidan en la vida de los pobladores del municipio de Manatí. Participa activamente en importantes eventos culturales del municipio entre ellos el carnaval.</ds:descripcion>
+    <ds:nombremunicipio>Manatí</ds:nombremunicipio>
+    <ds:direccion>Calle 8 No.5D - 27</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de San José</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Situada en la plaza principal del municipio donde todos los creyentes visitan cada fin de semana para recibir la bendición. Alrededor de ella giran los festejos religiosos en honor a San José patrono del pueblo  con procesiones  cantos religiosos  etc.</ds:descripcion>
+    <ds:nombremunicipio>Campo de la Cruz</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Puerto Municipal de Ponedera</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Sirve como medio de transporte para los habitantes de los pueblos riberenos. Es un lugar donde también se puede banarse y es a donde llegan la batalla de flores que se celebran durante sus festividades</ds:descripcion>
+    <ds:nombremunicipio>Ponedera</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa de la Cultura</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es un recinto pequeno  en el cual se desarrollan actividades de carácter cultural.Ofrece a la comunidad diversos y variados programas que contribuyen a la  preservación de la cultura de este  como son talleres de expresión corporal  musical y artes plásticas.</ds:descripcion>
+    <ds:nombremunicipio>Malambo</ds:nombremunicipio>
+    <ds:direccion>Carrera 8 #10B-131</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Museo Romántico de Barranquilla</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Ubicado en una hermosa mansión del emblemático  Barrio Prado  para muchos se convierte en  la memoria  de Barranquilla  en cuanto a lo que históricamente  trasciende  evocando de diferentes maneras las  manifestaciones culturales y sociales que hacen de  Barranquilla la ciudad más importante del Caribe  colombiano</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carrera 54 59 - 199</ds:direccion>
+    <ds:telefono>575 3399000</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Fundación La Cueva</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Sitio de intelectualidad y tertulia. Conserva fotografías y objetos que demuestran que en décadas pasadas fue el lugar preferido de encuentro de muchos artistas e intelectuales de renombre.Fue declarado Patrimonio Cultural de la Ciudad</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carrera 43 . 59 - 03</ds:direccion>
+    <ds:telefono>575 379 27 86</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Monumento Musa Tejedora</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Escultura de una arana a base de metal creada por del artista Yino Marquez la cual expresa a través de su forma la tradición manual que destaca  a este municipio</ds:descripcion>
+    <ds:nombremunicipio>Usiacuri</ds:nombremunicipio>
+    <ds:direccion>Entrada principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Coliseo De Ferias</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>En este coliseo se realizan ferias equinas como también ganaderas  pero más que todo prima la feria equina en la que se escoge: El mejor ejemplar  mejor caballo de paso  mejor caballo de carrera.</ds:descripcion>
+    <ds:nombremunicipio>Galapa</ds:nombremunicipio>
+    <ds:direccion>Vía Cordialidad (Barranquilla – Cartagena)</ds:direccion>
+    <ds:telefono>3017363005</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estatua Simón Bolívar</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Busto conmemorativo a Simón Bolívar.</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa Museo Julio Florez</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Casa donde vivió y murió el poeta colombiano Julio Flórez. En ella  se conservan los muebles  fotografías  cuadros y otros elementos de propiedad del poeta  quien murió el 7 de  febrero de 1923. Sus restos junto a los de su esposa reposan en este lugar.</ds:descripcion>
+    <ds:nombremunicipio>Usiacuri</ds:nombremunicipio>
+    <ds:direccion>Transversal 20 No. 18 - 40</ds:direccion>
+    <ds:telefono>575 875 55 67</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estación Piscícola</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>La Estación Piscícola de Repelón es pionero en el desarrollo de investigaciones que han contribuido al incremento de la actividad acuícola a nivel regional.</ds:descripcion>
+    <ds:nombremunicipio>Repelón</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa de la Cultura</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Fue construido en el ano de 1996 y el 14 de febrero de 1997 se inauguro. Hoy en día se vienen dando una serie de obras culturales que son importantes para la comunidad como el festival de la máscara y el bejuco  las fiestas del carnaval.</ds:descripcion>
+    <ds:nombremunicipio>Galapa</ds:nombremunicipio>
+    <ds:direccion>Carretera La Cordialidad  11 km</ds:direccion>
+    <ds:telefono>575 3886231</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa de la Cultura</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>La casa de la cultura fue  fundada  el 11 de marzo de 1976 y  remodelada en el 2007. Consta de una biblioteca pública. Este recinto cuenta también con 4 galerías</ds:descripcion>
+    <ds:nombremunicipio>Sabanalarga</ds:nombremunicipio>
+    <ds:direccion>Kr 19 21-76</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Sala Arqueologica Savir</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Este recinto posee una breve historia descrita en sus murales acerca la historia y la evolución de las sociedades en los municipios de esta zona</ds:descripcion>
+    <ds:nombremunicipio>Repelón</ds:nombremunicipio>
+    <ds:direccion>Institución educativa técnica agropecuaria Villaroa</ds:direccion>
+    <ds:telefono>3107171708</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de Santa Lucia</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>En julio 18 de 1986 fue declarada por la arquidiócesis   de Barranquilla como templo  ya que  existía desde los anos de 1914</ds:descripcion>
+    <ds:nombremunicipio>Santa Lucia</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estadero Pueblito  Viejo</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es un estadero museo construido hace 10 anos  en el se encuentran elementos representativos de Sabanalarga. Está abierto al público los días viernes – sábado y domingo.</ds:descripcion>
+    <ds:nombremunicipio>Sabanalarga</ds:nombremunicipio>
+    <ds:direccion>Calle 13 N° 26 – 60</ds:direccion>
+    <ds:telefono>575 8782690</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Puente Alberto Pumarejo</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Conecta a Barranquilla con la isla de Salamanca  atraviesa al río Magdalena a escasos kilómetros de su desembocadura. Su nombre oficial es Laureano Gómez  pero es más conocido con el nombre de su principal impulsor. Se inauguró el  6 de abril de 1974</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San Nicolás de Tolentino</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>San Nicolás de Tolentino es el patrono la ciudad. La iglesia  de estilo neogótico  se comenzó a construir a mediados del siglo XVII  su edificación llevó unos 300 anos  y se terminó a finales del siglo XIX</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carrera 42   33-35</ds:direccion>
+    <ds:telefono>575 3402247</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Parador Banda de Baranoa</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Instalaciones adecuadas para actividades culturales dentro de las cuales se destaca la práctica de la banda de Baranoa  se encuentra aun en construcción.</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Via Tubara – Baranoa</ds:direccion>
+    <ds:telefono>3114075852</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Fundacion Museo Arquelogico Rebeca Coll</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>La fundación cultural Rebeca Coll  exhibe piezas y restos de la cultura indígena asentada a los alrededores de tubara( los mokana)  en donde se muestran cerámicas  restos oseos  instrumentos musicales y material de artesanías</ds:descripcion>
+    <ds:nombremunicipio>Tubará</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Planetario y Centro Recreativo del Atlántico</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Quienes visitan el Planetario se maravillan con todo el realismo de una noche de planetas  constelaciones y estrellas la proyección de imágenes acompanadas de efectos y sonidos y la visita al Centro Interactivo</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carrera 43 63B - 77</ds:direccion>
+    <ds:telefono>575371 89 00</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa Museo Orlando Rivera  Figurita</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Casa donde vivió el artista Orlando Rivera conocido popularmente como  Figuritas   en la pared de la  sala principal de la vivienda se puede apreciar una de sus obras titulada  Resurrección de Colombia</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Carrera 16 con calle 21 esquina</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia Santa María Magdalena</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>El municipio cuenta con la iglesia Santa María Magdalena la cual fue declarada patrimonio histórico  localizada en la estructura urbana.</ds:descripcion>
+    <ds:nombremunicipio>Malambo</ds:nombremunicipio>
+    <ds:direccion>Calle 12 No.12-8</ds:direccion>
+    <ds:telefono>575 3762393</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Centro Recreacional Los Lagos</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Los lagos de Sabanagrande  son siete pequenos espejos artificiales con estadero restaurante donde se ofrece comida típica de la región y actividades campestres como montar a caballo  navegar y pescar.</ds:descripcion>
+    <ds:nombremunicipio>Sabanagrande</ds:nombremunicipio>
+    <ds:direccion>Vía al puerto el Río</ds:direccion>
+    <ds:telefono>3012212294</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Fundación Zoológico de Barranquilla</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Este parque-jardín zoológico reúne 600 ejemplares correspondientes a 140 especies de los cinco continentes.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Calle 77 No. 68 - 40</ds:direccion>
+    <ds:telefono>575 368 95 84</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Coliseo de ferias Rafael Varvo Gonzales</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Donado por el Sr. Rafael Varvo con el fin de realizar eventos que estimulen la exhibición de ganado  equino  vacuno y otras especies menores durante las fiestas que se realizan en el mes de noviembre</ds:descripcion>
+    <ds:nombremunicipio>Sabanalarga</ds:nombremunicipio>
+    <ds:telefono>3135452312</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Teatro Amira de la Rosa</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Se caracteriza por la permanente programación de eventos de todo orden cultural: conciertos  obras de teatro  exposiciones de pintura y escultura  presentaciones literarias  foros y conferencias</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carrera 54 con Calle 53</ds:direccion>
+    <ds:telefono>575 3491210</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estatua de Simon Bolivar</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Estatua en conmemoración a Simón Bolívar.</ds:descripcion>
+    <ds:nombremunicipio>Palmar de Varela</ds:nombremunicipio>
+    <ds:direccion>Plaza central</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/76">
+    <socrata:rowID>76</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de San Roque de Montpellier</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>De estilo neogótico se construyó entre los anos 1853 y 1857. En 1881 el obispo monsenor Romero la consagró parroquia oficialmente. En la entrada se encuentra emplazada una imagen tallada en madera de San Roque  la más antigua de la ciudad.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Calle 30 36-41</ds:direccion>
+    <ds:telefono>575 340 5077</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/77">
+    <socrata:rowID>77</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Plaza de San Nicolás</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Ubicada frente a la iglesia de San Nicolás en el centro del Casco Histórico.Fue núcleo de la actividad social y comercial de la ciudad hasta mediados del siglo XX. Discursos  desfiles militares y actos políticos se han desarrollado en la histórica plaza</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Calles 32 y 33  y entre las carreras 41 y 42</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/78">
+    <socrata:rowID>78</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Casa de la Cultura</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>La nueva casa de la cultura que aun no ha sido finalizado  donde se pretende estimular las actividades culturales del municipio</ds:descripcion>
+    <ds:nombremunicipio>Sabanagrande</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/79">
+    <socrata:rowID>79</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San Jose de Tubara</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Fue construida hace 112 anos  tiene un estilo neoclásico esta obra fue dirigida por un monsenor  su construcción comenzó el 19 de marzo de 1897 y termino un ano después con la fiesta patronal de San José.</ds:descripcion>
+    <ds:nombremunicipio>Tubará</ds:nombremunicipio>
+    <ds:direccion>Las Palmeras</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/80">
+    <socrata:rowID>80</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de Ponedera</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Durante un periodo tuvo un diseno gótico sin embargo le realizaron muchos trabajos para remodelarla y lo único que queda del legado histórico es la cúpula que fue construida en los anos 50</ds:descripcion>
+    <ds:nombremunicipio>Ponedera</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/81">
+    <socrata:rowID>81</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San Antonio de Padua</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>La iglesia de San Antonio de Padua fue fundada en 1856. Consta de dos torres  y la cúpula de estilo  renacentista  </ds:descripcion>
+    <ds:nombremunicipio>Sabanalarga</ds:nombremunicipio>
+    <ds:direccion>Calle 21 Kr 19</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/82">
+    <socrata:rowID>82</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Club Barahuaca</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>El Club Barahuaca es un centro recreacional que tiene kioskos para eventos sociales y culturales  piscina y cancha de futbol. Restaurante / bar / casa de eventos</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Carrera 16B No. 13 – 46</ds:direccion>
+    <ds:telefono>575 8788370</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/83">
+    <socrata:rowID>83</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Capilla de Nuestra Senora de Fatima</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta capilla es una obra arquitectónica religiosa ubicada dentro del colegio La Normal de Nuestra Senora de Fátima que se creo con el fin de elevar el nivel cultural y religioso de las estudiantes del colegio.</ds:descripcion>
+    <ds:nombremunicipio>Sabanagrande</ds:nombremunicipio>
+    <ds:direccion>Carretera Oriental</ds:direccion>
+    <ds:telefono>575 8791479</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/84">
+    <socrata:rowID>84</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Centro Artesanal Julio Flórez</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Punto estratégico para adquirir artesanías elaboradas en palma de iraca. Se encuentra ubicado a 500 mts de la entrada principal del municipio de Usiacurí</ds:descripcion>
+    <ds:nombremunicipio>Usiacuri</ds:nombremunicipio>
+    <ds:direccion>Calle 22 N° 9ª – 27</ds:direccion>
+    <ds:telefono>575 8755551</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/85">
+    <socrata:rowID>85</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Museo del Caribe</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Este museo es un espacio cultura que invita a la reflexión sobre los procesos históricos  ambientales y socioculturales que durante todos estos anos ha moldeado la diversidad del Caribe Colombiano</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Situado dentro de las instalaciones del Parque Cultural del Caribe</ds:direccion>
+    <ds:telefono>575 372 05 82</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/86">
+    <socrata:rowID>86</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Plaza de la Paz</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es el espacio público que sirve como sede de la mayoría de las expresiones culturales  sociales y políticas de Barranquilla</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carreras 45 y 46  y calles 50 y 53</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/87">
+    <socrata:rowID>87</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Santuario Mariano Nuestra Senora Del Carmen</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Fue elegida parroquia en 1903  nombrada Santuario Mariano en 1987. Se realizan las  festividades del Sagrado Corazón en Junio  de la Asunción de la virgen  en agosto  el milagroso en septiembre y  la semana mayor por lo general en abril y mayo</ds:descripcion>
+    <ds:nombremunicipio>Puerto Colombia</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/88">
+    <socrata:rowID>88</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Castillo de Salgar(Fuerte de Santa Barbara)</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Actualmente se encuentra en remodelación y es administrado actualmente por la caja de compensación comfamiliar</ds:descripcion>
+    <ds:nombremunicipio>Puerto Colombia</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/89">
+    <socrata:rowID>89</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Cinemateca del Caribe</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Se creó con el objeto de promover y divulgar el cine regional  nacional e internacional  mediante proyecciones  actividades pedagógicas y de apreciación  cine-foros  ciclos  festivales y muestras especiales</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Cra. 43 No. 63B - 107</ds:direccion>
+    <ds:telefono>575 3684100</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/90">
+    <socrata:rowID>90</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Pozos de Aguas</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>A lo largo del cauce del arroyo el Pueblo se puede apreciar los antiguos pozos de aguas minerales o medicinales  los cuales curaban enfermedades de la piel  vista y estomago</ds:descripcion>
+    <ds:nombremunicipio>Usiacuri</ds:nombremunicipio></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/91">
+    <socrata:rowID>91</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Parque Museo Ecologico y Taller  El Pollo</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>El parque museo ecológico es un proyecto de la comunidad aledana al sector  en el se encuentra el taller de arte el Pollo donde se puede apreciar escultura elaboradas con materiales de la región</ds:descripcion>
+    <ds:nombremunicipio>Puerto Colombia</ds:nombremunicipio>
+    <ds:telefono>3126294820</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/92">
+    <socrata:rowID>92</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Estatua La Vendedora de Arepa e Huevo</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Estatua que  personifica  un ítem  representativo de la cultura gastronómica de esta población  la arepa e huevo. Alrededor de esta estatua se encuentra el comercio del municipio.</ds:descripcion>
+    <ds:nombremunicipio>Luruaco</ds:nombremunicipio>
+    <ds:direccion>vía principal de la cordialidad</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/93">
+    <socrata:rowID>93</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San José</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Iglesia construida el 28 de octubre de 1951. Tiene una capacidad para 400 personas.</ds:descripcion>
+    <ds:nombremunicipio>Luruaco</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion>
+    <ds:telefono>3135741208</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/94">
+    <socrata:rowID>94</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Totem Mundo Marino</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es una escultura fuente que simboliza el mar y el pueblo es netamente de pescadores  el escultor le rinde tributo a los trabajadores del mar y fue construida en el 2007.</ds:descripcion>
+    <ds:nombremunicipio>Puerto Colombia</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/95">
+    <socrata:rowID>95</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Museo Atlántico Somos Todos</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Bello edificio de estilo neoclásico y único en la costa del Caribe colombiano  reconocido por el Centro Filial del Consejo de Monumentos Nacionales como Patrimonio Arquitectónico del Departamento del Atlántico</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Calle 35 con Carrera 36 edifico de la antigua Gobernación del Atlántico</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/96">
+    <socrata:rowID>96</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Templo Parroquial Santa Rita de Casia</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es una obra arquitectónica religiosa que fue construida en el ano de 1870 mediante el concurso de los fieles y sacerdotes progresistas</ds:descripcion>
+    <ds:nombremunicipio>Sabanagrande</ds:nombremunicipio>
+    <ds:direccion>Plaza principal</ds:direccion>
+    <ds:telefono>095 8791581</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/97">
+    <socrata:rowID>97</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Museo Bolivariano Casa de Bolívar</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Habitó el Libertador Simón Bolívar días antes de su muerte. Se describe como una casa tipo colonial quien en un principio era propiedad de Pedro Juna Visval  esta se encuentra ubicada en la cabecera municipal a pocos metros de la Iglesia central de Soledad.</ds:descripcion>
+    <ds:nombremunicipio>Soledad</ds:nombremunicipio>
+    <ds:direccion>Carrera 26 No. 18 – 10</ds:direccion>
+    <ds:telefono>575 342 0207</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/98">
+    <socrata:rowID>98</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Paseo de Bolívar</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Antiguamente lo llamaban Calle Ancha. A partir de esta avenida se comenzó a desarrollar toda la actividad socio cultural y económica de la ciudad y desde este lugar surgieron y se emplazaron la primera iglesia  teatro  plazas y barrios.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carreras 35 y 46 y las Calles 30 y 46</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/99">
+    <socrata:rowID>99</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Compuertas El Porvenir</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Las compuertas del porvenir regulan la entrada de agua a la ciénaga de Guájaro. Estas aguas provienen del Canal del Dique. El objetivo es mantener un nivel de agua adecuado en la ciénaga de Guájaro</ds:descripcion>
+    <ds:nombremunicipio>Repelón</ds:nombremunicipio>
+    <ds:direccion>cerca de la vereda las compuertas</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/100">
+    <socrata:rowID>100</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia de Piojó</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Fue construida en 1930  con arquitectura colonial y esta ubicada en el perímetro urbano del municipio</ds:descripcion>
+    <ds:nombremunicipio>Piojó</ds:nombremunicipio>
+    <ds:direccion>Parque central</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/101">
+    <socrata:rowID>101</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Hacienda El Guajaro</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta es la antigua finca Veracruz a las orillas del Guajaro  con alrededor de 500 hectáreas de tierras verdes y fértiles cuenta con una  infraestructura para albergar turistas</ds:descripcion>
+    <ds:nombremunicipio>Repelón</ds:nombremunicipio>
+    <ds:direccion>Km 6 via Repelon</ds:direccion>
+    <ds:telefono>3114388118</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/102">
+    <socrata:rowID>102</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Parque Cultural del Caribe</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Arquitectura vanguardista  que ofrece a la comunidad los servicios del Museo del Caribe  único en su estilo  con tecnología de punta que muestra las características históricas  geográficas y étnicas de las raíces culturales de la región Caribe</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Calle 36 No. 46-66</ds:direccion>
+    <ds:telefono>575 3720581</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/103">
+    <socrata:rowID>103</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Museo de Arte Moderno de Barranquilla  MAMB</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Lugar que realiza exposiciones de arte moderno con piezas que combinan diversas técnicas entre las que se destacan arte abstracto  minimalista  racionalista y conceptual  como el mejor coctel para los sentidos  los deleita con el imaginario de los artistas.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Carrera 56 . 74 - 22</ds:direccion>
+    <ds:telefono>575 369 01 01</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/104">
+    <socrata:rowID>104</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Centro de Convivencia Ciudadana</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Centro de convivencia donde se realizan actividades comunitarias dirigidas a jóvenes  adultos mayores  adultos y ninos del departamento del Atlántico.</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Parque espejo de Agua</ds:direccion>
+    <ds:telefono>3005579011</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/105">
+    <socrata:rowID>105</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Ermita de San Luis</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>De la antigua ermita hecha de cal y canto deteriorado por la erosión y el paso del tiempo  sólo queda una pared y la base  sobre la cual la alcaldía  construyó un recinto cerrado con vidrio para protegerla.</ds:descripcion>
+    <ds:nombremunicipio>Tubará</ds:nombremunicipio>
+    <ds:direccion>Cementerio municipal</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/106">
+    <socrata:rowID>106</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Plaza de la Aduana</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Construcción de arquitectura de 1849 en medio del protagonismo adquirido por la ciudad como puerto marítimo y fluvial y fuente de desarrollo económico para el país.</ds:descripcion>
+    <ds:nombremunicipio>Barranquilla</ds:nombremunicipio>
+    <ds:direccion>Vía 40 . 36 -135</ds:direccion>
+    <ds:telefono>575 330 37 00</ds:telefono></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/107">
+    <socrata:rowID>107</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Busto Nestor Carlos Consuegra</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Busto en memoria de Nestor Carlos Consuegra (1913 – 1983) ex - senador de la República</ds:descripcion>
+    <ds:nombremunicipio>Baranoa</ds:nombremunicipio>
+    <ds:direccion>Calle 14 con carrera 14A</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/108">
+    <socrata:rowID>108</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia Juan Bautista de Palmar de Varela</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Esta iglesia conserva sus dos patronos: San Juan Bautista  el viejo y el nuevo. Construida en el ano de 1951  en una época la imagen del santo se estaba destruyendo pero fue restaurada y conservarla hasta la actualidad.</ds:descripcion>
+    <ds:nombremunicipio>Palmar de Varela</ds:nombremunicipio>
+    <ds:direccion>Plaza central</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/109">
+    <socrata:rowID>109</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Parque Mokana</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Es un parque que aun se encuentra en construcción y que a finales de 2011 estará abierto al publico  cuenta con estructuras de descanso recreacionales  senderos  cuerpos de agua  y animales exóticos.</ds:descripcion>
+    <ds:nombremunicipio>Tubará</ds:nombremunicipio>
+    <ds:direccion>Carretera Tubara - usiacuri</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/110">
+    <socrata:rowID>110</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Iglesia San José</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Anos más tarde de la fundación del Municipio sus habitantes organizaron una Junta que llevó el nombre de Pro Iglesia y construyeron la iglesia con materiales de zinc y madera y organizaron las festividades de San Juan Bautista y San José</ds:descripcion>
+    <ds:nombremunicipio>Ponedera</ds:nombremunicipio>
+    <ds:direccion>Corregimiento de Puerto Giraldo</ds:direccion></rdf:Description>
+<rdf:Description rdf:about="https://www.datos.gov.co/resource/ajwu-p33t/111">
+    <socrata:rowID>111</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/ajwu-p33t"/>
+    <ds:nombresitio>Malecon de Puerto Colombia</ds:nombresitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>El malecón bordea el municipio de Puerto Colombia con el mar. Con la construcción de espolones se ha generado una zona de playas</ds:descripcion>
+    <ds:nombremunicipio>Puerto Colombia</ds:nombremunicipio></rdf:Description></rdf:RDF>
