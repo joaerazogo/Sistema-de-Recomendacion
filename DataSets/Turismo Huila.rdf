@@ -1,0 +1,1751 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="https://www.datos.gov.co/resource/" xmlns:ds="https://www.datos.gov.co/resource/t5nm-48wn/">
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>templo de san sebastian</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>museo antropologico </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>cascada la cabana</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>sitio rereativo los manguitos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>palacio episcopal</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>cueva las letras</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>antigua hacienda la manguita</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>balneario el arrayan</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>filo de las mercedes </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>montana loma de la cruz</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>cementerio infantil quinchana</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>baraya</ds:municipio>
+    <ds:sitio_turistico>moyas el  boqueron de las lajas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>muestra indigenas la parada</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>cascadas-chorreras rio ambica</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>busto de la reina</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>teatro cincuentenario</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>algeciras</ds:municipio>
+    <ds:sitio_turistico>charco el hueco</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>santa maria</ds:municipio>
+    <ds:sitio_turistico>iglesia de nuestra senora del carmen</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>laguna el dorado</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>llanura meseta de balsillas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>caida de agua las cuevas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>la muralla</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>capilla de betania </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>casa del exgobernador federico arboleda</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>perfil de hombre cerro matambo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>estatuaria dos aguas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>algeciras</ds:municipio>
+    <ds:sitio_turistico>cascada los negritos </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>petroglifos .piedras con dibujos grabados.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>museo arqueologico</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>marmato .vereda vestigios indigenas.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>charco el poira</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>laguna negra</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>capilla de san andres</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>centro recreacional casa blanca</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>estatuaria agua bonita</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>campoalegre</ds:municipio>
+    <ds:sitio_turistico>capilla de jesus nazareno .inspeccion de otas.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>hacienda la lindosa</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>quebrada la buenavista </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>piscinas naturales charco el poira</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>templo de don roque .el caguan.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>nataga</ds:municipio>
+    <ds:sitio_turistico>santuario mariano</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>monte espinoso vegetacion xerofitica</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>capilla de san jose de belen</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>la cueva y el puente del diablo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>fuentes termales pan de azucar</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>volcan apagado el morro</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>fuente de agua las lajas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>la laguna</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>santa maria</ds:municipio>
+    <ds:sitio_turistico>meseta de jerusalen</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tello</ds:municipio>
+    <ds:sitio_turistico>hacienda la aurora</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>isnos</ds:municipio>
+    <ds:sitio_turistico>alto de lo idolos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>estatuaria la aguada</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>balneario los remansos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>timana</ds:municipio>
+    <ds:sitio_turistico>capilla de tobo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>elias</ds:municipio>
+    <ds:sitio_turistico>paso de maito</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palestina</ds:municipio>
+    <ds:sitio_turistico>finca demostrativa monserrate</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>caverna de los guacharos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>templo de san antonio</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>centro recreacional club campestre</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>timana</ds:municipio>
+    <ds:sitio_turistico>monumento a la gaitana</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>complejo turistico santa helena</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>capilla antigua</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>sitio rereativo villa esperanza </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>altamira</ds:municipio>
+    <ds:sitio_turistico>farallones de pericongo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>planta del acueducto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>altamira</ds:municipio>
+    <ds:sitio_turistico>colegio departamental divino salvador</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>quebrada la chilca</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>hobo</ds:municipio>
+    <ds:sitio_turistico>vestigios indigenas isla de santiago</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>altamira</ds:municipio>
+    <ds:sitio_turistico>aguas termales el azufral</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>boveda hipogeos de fotalecillas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>hidroelectrica de betania</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>quebrada la yaquilga</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>valle de san bartolo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>isnos</ds:municipio>
+    <ds:sitio_turistico>estatuarias granada</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>elias</ds:municipio>
+    <ds:sitio_turistico>colegio san luis gonzaga</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/76">
+    <socrata:rowID>76</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>cascada la perica</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/77">
+    <socrata:rowID>77</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tello</ds:municipio>
+    <ds:sitio_turistico>hacienda santa rita</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/78">
+    <socrata:rowID>78</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>centro recreacional rivera hokey club</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/79">
+    <socrata:rowID>79</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>boqueron de san francisco</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/80">
+    <socrata:rowID>80</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>vestigios indigenas el buitron</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/81">
+    <socrata:rowID>81</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>estacion del ferrocaril fortalecillas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/82">
+    <socrata:rowID>82</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>santa maria</ds:municipio>
+    <ds:sitio_turistico>cascada marcella</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/83">
+    <socrata:rowID>83</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>caida de agua chorro alto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/84">
+    <socrata:rowID>84</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>capilla de las minas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/85">
+    <socrata:rowID>85</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>fangala de buenos aires</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/86">
+    <socrata:rowID>86</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>elias</ds:municipio>
+    <ds:sitio_turistico>vestigios indigenas potrerillos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/87">
+    <socrata:rowID>87</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>cerro neiva . altura cordillera.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/88">
+    <socrata:rowID>88</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>casa de francisco eustaquio alvarez</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/89">
+    <socrata:rowID>89</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>tunel de munis</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/90">
+    <socrata:rowID>90</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>estrecho del magdalena</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/91">
+    <socrata:rowID>91</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>el palmar</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/92">
+    <socrata:rowID>92</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>parque arqueologico nacional </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/93">
+    <socrata:rowID>93</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>baraya</ds:municipio>
+    <ds:sitio_turistico>mina fosforica .vereda el salado.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/94">
+    <socrata:rowID>94</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>penon redondo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/95">
+    <socrata:rowID>95</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>baraya</ds:municipio>
+    <ds:sitio_turistico>fuentes de agua azufrales </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/96">
+    <socrata:rowID>96</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>piedra pintada</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/97">
+    <socrata:rowID>97</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>capilla de santa barabara</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/98">
+    <socrata:rowID>98</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>cascada la topa</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/99">
+    <socrata:rowID>99</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>templo san antonio</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/100">
+    <socrata:rowID>100</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>parador turistico la parrilla del rey</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/101">
+    <socrata:rowID>101</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>hobo</ds:municipio>
+    <ds:sitio_turistico>loma de maco</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/102">
+    <socrata:rowID>102</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>isnos</ds:municipio>
+    <ds:sitio_turistico>estatuarias .alto de las guacas.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/103">
+    <socrata:rowID>103</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>algeciras</ds:municipio>
+    <ds:sitio_turistico>hacienda lagunilla</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/104">
+    <socrata:rowID>104</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>templo colonial</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/105">
+    <socrata:rowID>105</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>bosque petrificado .penasco de rocas.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/106">
+    <socrata:rowID>106</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>muestra indigena los naranjos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/107">
+    <socrata:rowID>107</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>cascada la azufrada</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/108">
+    <socrata:rowID>108</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>vestigios de un cementario la moras</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/109">
+    <socrata:rowID>109</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>baraya</ds:municipio>
+    <ds:sitio_turistico>salto de agua guaraco</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/110">
+    <socrata:rowID>110</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>capilla de avispero</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/111">
+    <socrata:rowID>111</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>zona arqueologica morelia</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/112">
+    <socrata:rowID>112</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>quebrada las enjalmas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/113">
+    <socrata:rowID>113</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palestina</ds:municipio>
+    <ds:sitio_turistico>finca ecoturistica la palma</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/114">
+    <socrata:rowID>114</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>capilla del carmelo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/115">
+    <socrata:rowID>115</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>capilla vestigios indigenas san calixto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/116">
+    <socrata:rowID>116</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>isnos</ds:municipio>
+    <ds:sitio_turistico>arco de las jarra .figuras.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/117">
+    <socrata:rowID>117</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>campoalegre</ds:municipio>
+    <ds:sitio_turistico>hacienda piravante</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/118">
+    <socrata:rowID>118</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>elias</ds:municipio>
+    <ds:sitio_turistico>templo parroquial san emigdio</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/119">
+    <socrata:rowID>119</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>algeciras</ds:municipio>
+    <ds:sitio_turistico>el templo .construccion .</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/120">
+    <socrata:rowID>120</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>lugar recreativo los samanes</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/121">
+    <socrata:rowID>121</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tello</ds:municipio>
+    <ds:sitio_turistico>charco los anones</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/122">
+    <socrata:rowID>122</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>algeciras</ds:municipio>
+    <ds:sitio_turistico>charco el casil</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/123">
+    <socrata:rowID>123</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>laguna la danta</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/124">
+    <socrata:rowID>124</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>parque nacional </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/125">
+    <socrata:rowID>125</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>colina loma de la cruz</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/126">
+    <socrata:rowID>126</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>campoalegre</ds:municipio>
+    <ds:sitio_turistico>hacienda de potosi</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/127">
+    <socrata:rowID>127</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>campoalegre</ds:municipio>
+    <ds:sitio_turistico>cerrro de la curinga</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/128">
+    <socrata:rowID>128</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palestina</ds:municipio>
+    <ds:sitio_turistico>finca ecoturistica el encanto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/129">
+    <socrata:rowID>129</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>los pozuelos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/130">
+    <socrata:rowID>130</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>charco el penon</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/131">
+    <socrata:rowID>131</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>capilla de santa lucia</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/132">
+    <socrata:rowID>132</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>balneario el pailon</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/133">
+    <socrata:rowID>133</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>el charco del bejuco</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/134">
+    <socrata:rowID>134</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>recreacion pesebres de bache</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/135">
+    <socrata:rowID>135</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>templo de lulomoy</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/136">
+    <socrata:rowID>136</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>la ulloa </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/137">
+    <socrata:rowID>137</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>seminario mayor</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/138">
+    <socrata:rowID>138</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>teruel</ds:municipio>
+    <ds:sitio_turistico>parque nacional nevado del huila</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/139">
+    <socrata:rowID>139</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>monserrate</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/140">
+    <socrata:rowID>140</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>templo parroquial</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/141">
+    <socrata:rowID>141</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>nataga</ds:municipio>
+    <ds:sitio_turistico>antiguo templo parroquial</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/142">
+    <socrata:rowID>142</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>templo de nuestra senora de guadalupe</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/143">
+    <socrata:rowID>143</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>la cueva del amor</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/144">
+    <socrata:rowID>144</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>la chaquira </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/145">
+    <socrata:rowID>145</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>catedral de san miguel arcangel</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/146">
+    <socrata:rowID>146</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>hacienda palmira </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/147">
+    <socrata:rowID>147</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>laguna de san francisco</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/148">
+    <socrata:rowID>148</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>hobo</ds:municipio>
+    <ds:sitio_turistico>sitio natural los cristales</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/149">
+    <socrata:rowID>149</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>sitio recreacional el bosque</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/150">
+    <socrata:rowID>150</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>estacion del ferrocarril</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/151">
+    <socrata:rowID>151</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>cascada la gaitana</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/152">
+    <socrata:rowID>152</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>timana</ds:municipio>
+    <ds:sitio_turistico>santa clara</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/153">
+    <socrata:rowID>153</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>paicol</ds:municipio>
+    <ds:sitio_turistico>hacienda el juncal</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/154">
+    <socrata:rowID>154</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>templo de nuestra senora de los dolores</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/155">
+    <socrata:rowID>155</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>campoalegre</ds:municipio>
+    <ds:sitio_turistico>las tapias .lugar donde fue fundada neiva. 1ra.vez.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/156">
+    <socrata:rowID>156</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>valle de las orquideas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/157">
+    <socrata:rowID>157</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>monumento la gaitana</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/158">
+    <socrata:rowID>158</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>playas vega del muerto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/159">
+    <socrata:rowID>159</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>loma del chicora</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/160">
+    <socrata:rowID>160</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>monumento los potros</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/161">
+    <socrata:rowID>161</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>templo antiguo </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/162">
+    <socrata:rowID>162</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>centro recreacional parque manila</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/163">
+    <socrata:rowID>163</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>cementario indigena .vereda palacios.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/164">
+    <socrata:rowID>164</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>casa municipal</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/165">
+    <socrata:rowID>165</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>el hoyo historico</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/166">
+    <socrata:rowID>166</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>campoalegre</ds:municipio>
+    <ds:sitio_turistico>iglesia .inspeccion de otas.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/167">
+    <socrata:rowID>167</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>santuario mariano de gallardo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/168">
+    <socrata:rowID>168</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tesalia</ds:municipio>
+    <ds:sitio_turistico>alto de la hocha</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/169">
+    <socrata:rowID>169</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>casa cural</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/170">
+    <socrata:rowID>170</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>la casona .construccion.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/171">
+    <socrata:rowID>171</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>cueva el tunel misterioso</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/172">
+    <socrata:rowID>172</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>templo de nuestra senora del carmen</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/173">
+    <socrata:rowID>173</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>laguna y centro recreacional el juncal</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/174">
+    <socrata:rowID>174</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>san isidro .salto.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/175">
+    <socrata:rowID>175</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>timana</ds:municipio>
+    <ds:sitio_turistico>templo de san calixto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/176">
+    <socrata:rowID>176</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>casa de la cultura</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/177">
+    <socrata:rowID>177</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>capilla santuario del socorro </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/178">
+    <socrata:rowID>178</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>piedra pintada  .pitografias.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/179">
+    <socrata:rowID>179</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>isnos</ds:municipio>
+    <ds:sitio_turistico>saltos de bordones</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/180">
+    <socrata:rowID>180</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>templo de la jagua</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/181">
+    <socrata:rowID>181</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>lugar de recreacion la cabana</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/182">
+    <socrata:rowID>182</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>casa hacienda buena vista</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/183">
+    <socrata:rowID>183</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>algeciras</ds:municipio>
+    <ds:sitio_turistico>hacienda de satia .construccion  antigua.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/184">
+    <socrata:rowID>184</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>tumba de la montosa .vestigios.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/185">
+    <socrata:rowID>185</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>tallado en piedra</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/186">
+    <socrata:rowID>186</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>estacion del ferrocarril .potosi.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/187">
+    <socrata:rowID>187</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>acevedo</ds:municipio>
+    <ds:sitio_turistico>cueva de los guacharos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/188">
+    <socrata:rowID>188</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>valle de las orquideas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/189">
+    <socrata:rowID>189</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>triple cascada del rio borbones</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/190">
+    <socrata:rowID>190</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>el alto .vereda gruta.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/191">
+    <socrata:rowID>191</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>altamira</ds:municipio>
+    <ds:sitio_turistico>paso la guaira</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/192">
+    <socrata:rowID>192</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>piedras del callejon .rocas varias formas.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/193">
+    <socrata:rowID>193</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>paicol</ds:municipio>
+    <ds:sitio_turistico>cueva caja de agua</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/194">
+    <socrata:rowID>194</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>cueva y filo del fraile</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/195">
+    <socrata:rowID>195</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>seguda lavapatas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/196">
+    <socrata:rowID>196</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>vereda el batatal</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/197">
+    <socrata:rowID>197</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>casa natal de adriano perdomo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/198">
+    <socrata:rowID>198</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>estacion del ferrocarril .golondrinas.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/199">
+    <socrata:rowID>199</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>iglesia del rosario</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/200">
+    <socrata:rowID>200</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>paicol</ds:municipio>
+    <ds:sitio_turistico>capilla santa rosa de lima</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/201">
+    <socrata:rowID>201</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>cueva zelandia</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/202">
+    <socrata:rowID>202</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tello</ds:municipio>
+    <ds:sitio_turistico>sitio mitologico cerro cucura</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/203">
+    <socrata:rowID>203</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>gruta de santa rosalia</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/204">
+    <socrata:rowID>204</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>muestra indigena el jabon</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/205">
+    <socrata:rowID>205</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>sitio recreacional mi ranchito</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/206">
+    <socrata:rowID>206</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>nataga</ds:municipio>
+    <ds:sitio_turistico>termales el palmar</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/207">
+    <socrata:rowID>207</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>estatuas a color la pelota</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/208">
+    <socrata:rowID>208</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>estacion psicola .estanques.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/209">
+    <socrata:rowID>209</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>parque libsburg</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/210">
+    <socrata:rowID>210</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>museo comunitario plata vieja</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/211">
+    <socrata:rowID>211</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>estatuaria san vicente</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/212">
+    <socrata:rowID>212</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>cerro negro</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/213">
+    <socrata:rowID>213</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>parque longitudinal</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/214">
+    <socrata:rowID>214</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>cueva rica</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/215">
+    <socrata:rowID>215</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>teruel</ds:municipio>
+    <ds:sitio_turistico>el almorzadero</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/216">
+    <socrata:rowID>216</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palestina</ds:municipio>
+    <ds:sitio_turistico>parque nacional natural cueva de los guacharos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/217">
+    <socrata:rowID>217</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>paisajes los altares</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/218">
+    <socrata:rowID>218</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>fuente termales las moyas de lourdes</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/219">
+    <socrata:rowID>219</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>museo arqueologico </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/220">
+    <socrata:rowID>220</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>muestra indigena obando</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/221">
+    <socrata:rowID>221</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>aguas termales agua caliente</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/222">
+    <socrata:rowID>222</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>chorro el tequendama</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/223">
+    <socrata:rowID>223</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>quebrada grande </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/224">
+    <socrata:rowID>224</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>puente sobre el rio cabrera .san alfonso.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/225">
+    <socrata:rowID>225</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>arbol el caucho solteron</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/226">
+    <socrata:rowID>226</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la argentina</ds:municipio>
+    <ds:sitio_turistico>cascada betania</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/227">
+    <socrata:rowID>227</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>mausoleo del padre pedro maria ramirez</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/228">
+    <socrata:rowID>228</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>templo colonial</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/229">
+    <socrata:rowID>229</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>campoalegre</ds:municipio>
+    <ds:sitio_turistico>centro recreacional la sadinata</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/230">
+    <socrata:rowID>230</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>hacienda los apocentos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/231">
+    <socrata:rowID>231</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>parador turistico el jardin </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/232">
+    <socrata:rowID>232</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>casa diocesana </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/233">
+    <socrata:rowID>233</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>laguna la candelaria</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/234">
+    <socrata:rowID>234</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>paicol</ds:municipio>
+    <ds:sitio_turistico>cascada las delicias</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/235">
+    <socrata:rowID>235</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tesalia</ds:municipio>
+    <ds:sitio_turistico>templo de san roque .pacarni.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/236">
+    <socrata:rowID>236</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>casa hacienda matamundo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/237">
+    <socrata:rowID>237</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tesalia</ds:municipio>
+    <ds:sitio_turistico>charco el cobre</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/238">
+    <socrata:rowID>238</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>camino el indio</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/239">
+    <socrata:rowID>239</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>balneario fuentes termales</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/240">
+    <socrata:rowID>240</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>aguas termales</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/241">
+    <socrata:rowID>241</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>playas amborco .rio bache.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/242">
+    <socrata:rowID>242</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>paicol</ds:municipio>
+    <ds:sitio_turistico>piscinas naturales la motilona</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/243">
+    <socrata:rowID>243</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>paicol</ds:municipio>
+    <ds:sitio_turistico>cerro de san jacinto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/244">
+    <socrata:rowID>244</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>casa de francisco de paula plazas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/245">
+    <socrata:rowID>245</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>algeciras</ds:municipio>
+    <ds:sitio_turistico>charco las margaritas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/246">
+    <socrata:rowID>246</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>laguna de guacayo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/247">
+    <socrata:rowID>247</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>laguna san andres</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/248">
+    <socrata:rowID>248</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>petroglifos satia</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/249">
+    <socrata:rowID>249</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>estatuarias quebradilla</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/250">
+    <socrata:rowID>250</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>piscinas naturales el boqueron</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/251">
+    <socrata:rowID>251</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>templo de san antonio</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/252">
+    <socrata:rowID>252</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>petroglifos el tambillo .piedras con dibujos grabados.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/253">
+    <socrata:rowID>253</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>laguna la magdalena</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/254">
+    <socrata:rowID>254</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>caida de agua salto las damas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/255">
+    <socrata:rowID>255</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>timana</ds:municipio>
+    <ds:sitio_turistico>templo de la santisima trinidad .naranjal.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/256">
+    <socrata:rowID>256</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>timana</ds:municipio>
+    <ds:sitio_turistico>termales sicana</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/257">
+    <socrata:rowID>257</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>sitio monserrate</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/258">
+    <socrata:rowID>258</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>caida de agua el raicero</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/259">
+    <socrata:rowID>259</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>casa antigua hacienda el tabor</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/260">
+    <socrata:rowID>260</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>laguna de lagunilla</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/261">
+    <socrata:rowID>261</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>chorro alto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/262">
+    <socrata:rowID>262</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>loma chata</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/263">
+    <socrata:rowID>263</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>caverna bellezas naturales</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/264">
+    <socrata:rowID>264</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>piedra de la sirena</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/265">
+    <socrata:rowID>265</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>capilla de san jose de rio loro</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/266">
+    <socrata:rowID>266</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>baraya</ds:municipio>
+    <ds:sitio_turistico>salto quebrada nutria el tequendama</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/267">
+    <socrata:rowID>267</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>cascada san emilio</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/268">
+    <socrata:rowID>268</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>acevedo</ds:municipio>
+    <ds:sitio_turistico>quebrada la carbona</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/269">
+    <socrata:rowID>269</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>molino el triunfo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/270">
+    <socrata:rowID>270</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>parque recreacional zona de embarcadero.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/271">
+    <socrata:rowID>271</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>altamira</ds:municipio>
+    <ds:sitio_turistico>playas soleada-arboles frondosos los carbones</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/272">
+    <socrata:rowID>272</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>campo dina</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/273">
+    <socrata:rowID>273</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>quebrada los cristales</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/274">
+    <socrata:rowID>274</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>camino real</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/275">
+    <socrata:rowID>275</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>laguna el algorrobo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/276">
+    <socrata:rowID>276</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>laguna el descanso</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/277">
+    <socrata:rowID>277</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>nataga</ds:municipio>
+    <ds:sitio_turistico>termales salado caliente</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/278">
+    <socrata:rowID>278</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>cerro de buena vista</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/279">
+    <socrata:rowID>279</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>cascada la urriaga</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/280">
+    <socrata:rowID>280</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>vestigios indigenas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/281">
+    <socrata:rowID>281</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>casa de lucila roso</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/282">
+    <socrata:rowID>282</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>el puerto de la capilla .paisaje.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/283">
+    <socrata:rowID>283</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>baraya</ds:municipio>
+    <ds:sitio_turistico>laguna las nubes</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/284">
+    <socrata:rowID>284</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>capilla de la trinidad</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/285">
+    <socrata:rowID>285</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>llano de tune</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/286">
+    <socrata:rowID>286</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>estatuaria a color alto purutal</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/287">
+    <socrata:rowID>287</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>capilla de los milagros</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/288">
+    <socrata:rowID>288</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>la planta</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/289">
+    <socrata:rowID>289</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>capilla de satia</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/290">
+    <socrata:rowID>290</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>timana</ds:municipio>
+    <ds:sitio_turistico>capilla el naranjal</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/291">
+    <socrata:rowID>291</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>casa hacienda bateas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/292">
+    <socrata:rowID>292</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>templo principal  y capilla .el amparo.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/293">
+    <socrata:rowID>293</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>templo de monserrate</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/294">
+    <socrata:rowID>294</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>nataga</ds:municipio>
+    <ds:sitio_turistico>santuario de nuestra senora de las mercedes</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/295">
+    <socrata:rowID>295</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>almorzadero</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/296">
+    <socrata:rowID>296</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>teruel</ds:municipio>
+    <ds:sitio_turistico>cascada chorro alto</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/297">
+    <socrata:rowID>297</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>templo del perpetuo socorro</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/298">
+    <socrata:rowID>298</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>capilla de chorrillos</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/299">
+    <socrata:rowID>299</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>acevedo</ds:municipio>
+    <ds:sitio_turistico>santuario de la paz .vereda la montosa.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/300">
+    <socrata:rowID>300</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>quebrada el guayabo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/301">
+    <socrata:rowID>301</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>selva pastizal meseta de jerusalen</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/302">
+    <socrata:rowID>302</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>la hoyada</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/303">
+    <socrata:rowID>303</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>molino antiguo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/304">
+    <socrata:rowID>304</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>laguna de guaytipan</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/305">
+    <socrata:rowID>305</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>casa cural antigua</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/306">
+    <socrata:rowID>306</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>piscinas naturales rio guarapas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/307">
+    <socrata:rowID>307</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>edificio nacional </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/308">
+    <socrata:rowID>308</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>isnos</ds:municipio>
+    <ds:sitio_turistico>estatua del doble yo .alto de las piedras.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/309">
+    <socrata:rowID>309</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>cementerio</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/310">
+    <socrata:rowID>310</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>cueva de sabastian de belalcazar</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/311">
+    <socrata:rowID>311</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>estacion del ferrocaril </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/312">
+    <socrata:rowID>312</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>quebrada chimbayaco el jordan agraduno</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/313">
+    <socrata:rowID>313</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tello</ds:municipio>
+    <ds:sitio_turistico>rio villavieja</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/314">
+    <socrata:rowID>314</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>colegio gabriel plazas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/315">
+    <socrata:rowID>315</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>suaza</ds:municipio>
+    <ds:sitio_turistico>las quemadas </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/316">
+    <socrata:rowID>316</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>aipe</ds:municipio>
+    <ds:sitio_turistico>pequena colina patibola</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/317">
+    <socrata:rowID>317</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>iglesia colonial</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/318">
+    <socrata:rowID>318</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>estadero la pinata</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/319">
+    <socrata:rowID>319</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>villavieja</ds:municipio>
+    <ds:sitio_turistico>desierto de la tatacoa</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/320">
+    <socrata:rowID>320</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>cripta de yaguara</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/321">
+    <socrata:rowID>321</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>aeropuerto benito salas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/322">
+    <socrata:rowID>322</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palestina</ds:municipio>
+    <ds:sitio_turistico>la riviera</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/323">
+    <socrata:rowID>323</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>timana</ds:municipio>
+    <ds:sitio_turistico>colegio de la anunciacion</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/324">
+    <socrata:rowID>324</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>casa hacienda el ancon</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/325">
+    <socrata:rowID>325</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>garzon</ds:municipio>
+    <ds:sitio_turistico>iglesia de nazaret</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/326">
+    <socrata:rowID>326</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>cerro  caracol</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/327">
+    <socrata:rowID>327</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>oporapa</ds:municipio>
+    <ds:sitio_turistico>charco las zapatas</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/328">
+    <socrata:rowID>328</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pitalito</ds:municipio>
+    <ds:sitio_turistico>capilla  antigua valvanera </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/329">
+    <socrata:rowID>329</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>vestigios cementario indigenas alto de girasol</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/330">
+    <socrata:rowID>330</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>guadalupe</ds:municipio>
+    <ds:sitio_turistico>laguna de guapaton .represa.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/331">
+    <socrata:rowID>331</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tarqui</ds:municipio>
+    <ds:sitio_turistico>casa cultural antigua</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/332">
+    <socrata:rowID>332</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>neiva</ds:municipio>
+    <ds:sitio_turistico>iglesia de san luis</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/333">
+    <socrata:rowID>333</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>aguas caliente </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/334">
+    <socrata:rowID>334</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>agrado</ds:municipio>
+    <ds:sitio_turistico>templo de nuestra senora de las mercedes</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/335">
+    <socrata:rowID>335</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>iquira</ds:municipio>
+    <ds:sitio_turistico>laguna el indio</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/336">
+    <socrata:rowID>336</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>palermo</ds:municipio>
+    <ds:sitio_turistico>templo colonial </ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/337">
+    <socrata:rowID>337</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tello</ds:municipio>
+    <ds:sitio_turistico>quebrada del aceite</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/338">
+    <socrata:rowID>338</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>casa museo del parque arqueologico</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/339">
+    <socrata:rowID>339</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>isnos</ds:municipio>
+    <ds:sitio_turistico>cascada salto de mortino</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/340">
+    <socrata:rowID>340</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>yaguara</ds:municipio>
+    <ds:sitio_turistico>parque santa barbara</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/341">
+    <socrata:rowID>341</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>tesalia</ds:municipio>
+    <ds:sitio_turistico>casa hacienda malpaso</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/342">
+    <socrata:rowID>342</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>la plata</ds:municipio>
+    <ds:sitio_turistico>estatuaria moscopan</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/343">
+    <socrata:rowID>343</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>saladoblanco</ds:municipio>
+    <ds:sitio_turistico>fuentes termales la cabana</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/344">
+    <socrata:rowID>344</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>san agustin</ds:municipio>
+    <ds:sitio_turistico>vestigios indigenas el tablon</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/345">
+    <socrata:rowID>345</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>acevedo</ds:municipio>
+    <ds:sitio_turistico>quebrada marajo</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/346">
+    <socrata:rowID>346</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>hacienda el palestrol</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/347">
+    <socrata:rowID>347</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>gigante</ds:municipio>
+    <ds:sitio_turistico>arbol ceiba de la libertad</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/348">
+    <socrata:rowID>348</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>pital</ds:municipio>
+    <ds:sitio_turistico>capilla de santa rosa</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/349">
+    <socrata:rowID>349</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>colombia</ds:municipio>
+    <ds:sitio_turistico>torre de oro .vereda zaragosa.</ds:sitio_turistico></dsbase:t5nm-48wn>
+<dsbase:t5nm-48wn rdf:about="https://www.datos.gov.co/resource/t5nm-48wn/350">
+    <socrata:rowID>350</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/t5nm-48wn"/>
+    <ds:municipio>rivera</ds:municipio>
+    <ds:sitio_turistico>vestigios indigenas el viso</ds:sitio_turistico></dsbase:t5nm-48wn></rdf:RDF>

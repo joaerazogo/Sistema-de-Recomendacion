@@ -1,0 +1,232 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="https://www.datos.gov.co/resource/" xmlns:ds="https://www.datos.gov.co/resource/vf8y-2gvs/">
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>20</ds:item>
+    <ds:sitio>Árbol móvil</ds:sitio>
+    <ds:tipo>Cultural</ds:tipo>
+    <ds:descripcion>Mito urbano: Árbol se desplaza hacia la via (salida a Medellin). Contra su tronco han ocurrido numerosos accidentes de transito con consecuencias desde leves hasta graves.  Tres (3) accidentes automovilísticos fatales.</ds:descripcion>
+    <ds:ubicacion>Salida a Medellín  entrada a antiguo matadero municipal</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  primer árbol  a 50 metros  mano izquierda  antes de portada antiguo matadero municipal</ds:distancia_casco_urbano>
+    <ds:telefono>PBX: 3682673 FAX: 3682673</ds:telefono>
+    <ds:email>www.lavirginia-risaralda.gov.co  turismo@lavirginia-risaralda.gov.co</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>17</ds:item>
+    <ds:sitio>Jarillones</ds:sitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Trekking bajo nivel de dificultad a lo largo de riveras de ríos Cauca y Risaralda. Dique longitud 3.6 kilómetros   construido para proteger caso urbano de inviernos exacerbados por calentamiento global.</ds:descripcion>
+    <ds:ubicacion>Riveras urbanas de los ríos Cauca y Risaralda</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano</ds:distancia_casco_urbano>
+    <ds:telefono>PBX: 3682673 FAX: 3682673</ds:telefono>
+    <ds:email>www.lavirginia-risaralda.gov.co; turismo@lavirginia-risaralda.gov.co</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>4</ds:item>
+    <ds:sitio>Las Perlas</ds:sitio>
+    <ds:tipo>Hospedaje</ds:tipo>
+    <ds:descripcion>Hotel habitaciones con baño privado  WI-FI  citofonia  televisión  baño turco jacuzzi y salón juegos mesa  orientación y guía hacia puntos de interés turísticos del eje cafetero </ds:descripcion>
+    <ds:ubicacion>Calle8#7-50.</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano una cuadra de la estación de policía</ds:distancia_casco_urbano>
+    <ds:telefono>3683428  3206861547</ds:telefono>
+    <ds:email>hotel-las-perlas@outlook.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>6</ds:item>
+    <ds:sitio>Leños y sazón</ds:sitio>
+    <ds:tipo>Restaurante</ds:tipo>
+    <ds:descripcion>Arepa mixta  carnes asadas  platos ejecutivos y a la carta</ds:descripcion>
+    <ds:ubicacion>Calle10#7-57</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  dos (2) cuadras del parque principal Simón Bolívar</ds:distancia_casco_urbano>
+    <ds:telefono>3682525  3128727399</ds:telefono>
+    <ds:email>N/D</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>1</ds:item>
+    <ds:sitio>Nogal Plaza</ds:sitio>
+    <ds:tipo>Hospedaje</ds:tipo>
+    <ds:descripcion>Hotel y restaurante  Lujosas habitaciones  desayuno americano  llamadas locales y nacionales  wi-fi  TV  impuestos  seguro hotelero y parqueadero</ds:descripcion>
+    <ds:ubicacion>Calle6#10-16</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano   dos (2) cuadras del parque principal Simón Bolívar</ds:distancia_casco_urbano>
+    <ds:telefono>321640496 3104054686.</ds:telefono>
+    <ds:email>hotelnogalplaza@hotmail.com  www.hotelnogalplaza.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>18</ds:item>
+    <ds:sitio>Nuestra Señora del Carmen</ds:sitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Parroquia primera iglesia del municipio padre Antonio José Valencia levantó bases en julio de 1935.</ds:descripcion>
+    <ds:ubicacion>Costado Occidental del parque principal Simón Bolívar</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano</ds:distancia_casco_urbano>
+    <ds:telefono>3682541</ds:telefono>
+    <ds:email>parroquiaelcarmen2011@hotmil.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>2</ds:item>
+    <ds:sitio>New York</ds:sitio>
+    <ds:tipo>Hospedaje</ds:tipo>
+    <ds:descripcion>Hotel  habitaciones con baño  nevera  TV  WI-FI  lavandería piscina y parqueadero privado</ds:descripcion>
+    <ds:ubicacion>Cra.9 #7-45</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  cuadra y media del parque principal Simón Bolívar</ds:distancia_casco_urbano>
+    <ds:telefono>3682277 3682699  3683465  3218129651</ds:telefono>
+    <ds:email>www.hotelnewyork.com.co  hotelnewyorklavirginiarda@gamail.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>14</ds:item>
+    <ds:sitio>La Parcela</ds:sitio>
+    <ds:tipo>Recreación</ds:tipo>
+    <ds:descripcion>Balneario descanso campestre  alquiler cabañas  restaurante  zona social  barbacoa juegos infantiles  salón juegos discoteca  kiosco  piscina adultos y niños  cabaña 25 personas; .</ds:descripcion>
+    <ds:ubicacion>Salida a balboa  esquina nororiental puente Mocatán</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano ½ cuadra de puente Mocatán rivera izquierda rio Risaralda</ds:distancia_casco_urbano>
+    <ds:telefono>3684995  3106682884 3147340828 3147340843</ds:telefono>
+    <ds:email>mapaos2812@gmail.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>16</ds:item>
+    <ds:sitio>Fiestas Aniversarias</ds:sitio>
+    <ds:tipo>Cultural</ds:tipo>
+    <ds:descripcion>Celebradas anualmente última semana noviembre imposición condecoraciones  otorgan reconocimientos  presentación grupos y orquestas de trayectoria nacional e internacional  desfile canoas en río Cauca  Reinado Señorita Virginia  muestra   artesanal y gastronómica  cabalgatas y variadas actividades culturales y artísticas.</ds:descripcion>
+    <ds:ubicacion>Parque principal Simón Bolívar  Rio cauca  vías urbanas</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano</ds:distancia_casco_urbano>
+    <ds:telefono>PBX: 3682673  FAX: 3682673</ds:telefono>
+    <ds:email>www.lavirginia-risaralda.gov.co  turismo@lavirginia-risaralda.gov.co</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>5</ds:item>
+    <ds:sitio>Caña Dulce</ds:sitio>
+    <ds:tipo>Hospedaje</ds:tipo>
+    <ds:descripcion>Hotel habitaciones con baño privado  TV  ventilador WI-FI</ds:descripcion>
+    <ds:ubicacion>Cra.10#6-17</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  dos (2) cuadras del parque principal Simón Bolívar</ds:distancia_casco_urbano>
+    <ds:telefono>3128899944  3679054</ds:telefono>
+    <ds:email>N/D</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>8</ds:item>
+    <ds:sitio>Viajes Velma</ds:sitio>
+    <ds:tipo>Turismo</ds:tipo>
+    <ds:descripcion>Tiquetes nacionales e internacionales.</ds:descripcion>
+    <ds:ubicacion>Calle 8a #6-20</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  media cuadra del parque principal Simón Bolívar</ds:distancia_casco_urbano>
+    <ds:telefono>3155345112  3682365  3681199</ds:telefono>
+    <ds:email>viajesvelma@hotmail.com.</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>11</ds:item>
+    <ds:sitio>Distrito de Manejo Integrado Guásimo</ds:sitio>
+    <ds:tipo>Atractivo Turístico Natural</ds:tipo>
+    <ds:descripcion>Bosque seco tropical elicto protegido por CARDER alta biodiversidad en flora y fauna  ecosistema solo presente en tres países del mundo  Ideal para caminatas (trekking) cascadas avistamiento de  aves  armadillos  tortugas.</ds:descripcion>
+    <ds:ubicacion>Área rural  entre  Veredas La Palma y el Aguacate</ds:ubicacion>
+    <ds:distancia_casco_urbano>Cinco (5) kilómetros de casco urbano</ds:distancia_casco_urbano>
+    <ds:telefono>PBX 3682673</ds:telefono>
+    <ds:email>www.lavirginia-risaralda.gov.co;  turismo@lavirginia-risaralda.gov.co</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>10</ds:item>
+    <ds:sitio>Farallones</ds:sitio>
+    <ds:tipo>Recreación</ds:tipo>
+    <ds:descripcion>Centro recreacional piscinas niños y adultos zonas de clavados bronceo bar restaurante discoteca área social y almacén domingo a domingo domingo viejoteca desde 3:00 pm.</ds:descripcion>
+    <ds:ubicacion>Calle12#2-107 zona El Finco</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  a dos cuadras de glorieta  Vuelta del Gas  salida hacia Balboa</ds:distancia_casco_urbano>
+    <ds:telefono>3206925679  3105000976</ds:telefono>
+    <ds:email>brisaviviana@hotmail.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>19</ds:item>
+    <ds:sitio>Parador Náutico</ds:sitio>
+    <ds:tipo>Recreación</ds:tipo>
+    <ds:descripcion>A la fecha en proceso de ser entregado en concesion a una empresa privada para un contrato AOM (administracion operacion y mantenimiento) paseos en rio Cauca alquiler jet Sky  piscina adultos y niños  platos típicos  especialidad pescado  eventos empresariales y sociales.</ds:descripcion>
+    <ds:ubicacion>Costado derecho saliendo hacia Pereira  despues de hacienda Balsillas</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano</ds:distancia_casco_urbano>
+    <ds:telefono>PBX: 3682673  FAX: 3682673</ds:telefono>
+    <ds:email>www.lavirginia-risaralda.gov.co; turismo@lavirginia-risaralda.gov.co</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>3</ds:item>
+    <ds:sitio>El Edén Porteño</ds:sitio>
+    <ds:tipo>Hospedaje</ds:tipo>
+    <ds:descripcion>Hotel  habitaciones con baño privado  WI-FI  citofonia  televisión  baño turco  jacuzzi salón juegos mesa  parqueadero  guía hacia puntos de interés turísticos del eje cafetero</ds:descripcion>
+    <ds:ubicacion>Calle9#6-120.</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  media cuadra de la estación de policía</ds:distancia_casco_urbano>
+    <ds:telefono>3682643  3206861555</ds:telefono>
+    <ds:email>hoteleledenporto@hotmail.com  www.hoteleledenporto.jindo.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>9</ds:item>
+    <ds:sitio>Publi expertos</ds:sitio>
+    <ds:tipo>Turismo</ds:tipo>
+    <ds:descripcion>Publicidad de alto impacto y sonido profesional</ds:descripcion>
+    <ds:ubicacion>Calle 6#7-42</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  esquina suroriental parque principal Simón Bolívar</ds:distancia_casco_urbano>
+    <ds:telefono>3173183604</ds:telefono>
+    <ds:email>publiexp@hotmail.com.</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>13</ds:item>
+    <ds:sitio>Las Palmas</ds:sitio>
+    <ds:tipo>Hospedaje</ds:tipo>
+    <ds:descripcion>Hotel habitaciones con baño privado  aire acondicionado WI-FI.</ds:descripcion>
+    <ds:ubicacion>Cra10#7-62</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  dos cuadras de estación policía</ds:distancia_casco_urbano>
+    <ds:telefono>3681209  3122281607</ds:telefono>
+    <ds:email>www.hotelaspalmas@blogspot.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>21</ds:item>
+    <ds:sitio>La Inmaculada Concepción</ds:sitio>
+    <ds:tipo>Atractivo turístico  cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Parroquia  Diócesis de Pereira  inaugurada febrero 14/1969  decreto 711 de Monseñor Baltazar Álvarez Restrepo  pertenecen 16 comunas</ds:descripcion>
+    <ds:ubicacion>Cra. 8 calle 13  esquina  barrio Balsillas</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano Una cuadra de Teatro municipal Hernando Lopez Yepes y Casa Cultura</ds:distancia_casco_urbano>
+    <ds:telefono>3679134</ds:telefono>
+    <ds:email>p-lainmaculada@hotmail.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>15</ds:item>
+    <ds:sitio>Puente Bernardo Arango</ds:sitio>
+    <ds:tipo>Atractivo turístico cultural y arquitectónico</ds:tipo>
+    <ds:descripcion>Puente colgante coloquialmente llamado puente viejo obras arquitectónica sobre rio Cauca de invaluable valor histórico de Risaralda  comunica corregimiento Caimalito de Pereira con la Virginia a la fecha  en proceso de rehabilitación  solo circulación peatonal.</ds:descripcion>
+    <ds:ubicacion>Cra. 8  costado sur de la Alcaldía Municipal</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano   ½ cuadra de Alcaldía Municipal</ds:distancia_casco_urbano>
+    <ds:telefono>PBX: 3682673 FAX: 3682673</ds:telefono>
+    <ds:email>www.lavirginia-risaralda.gov.co; turismo@lavirginia-risaralda.gov.co</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>12</ds:item>
+    <ds:sitio>El Finco</ds:sitio>
+    <ds:tipo>Restaurante</ds:tipo>
+    <ds:descripcion>Pesca deportiva centro recreacional  restaurante  lagos de pesca deportiva y recreación  kiosco para servicio restaurante.</ds:descripcion>
+    <ds:ubicacion>Frente a Farallones</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano   a dos cuadras de glorieta  Vuelta del Gas  salida hacia Balboa</ds:distancia_casco_urbano>
+    <ds:telefono>3147414148</ds:telefono>
+    <ds:email>brisaviviana@hotmail.com</ds:email></dsbase:vf8y-2gvs>
+<dsbase:vf8y-2gvs rdf:about="https://www.datos.gov.co/resource/vf8y-2gvs/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="https://www.datos.gov.co/resource/vf8y-2gvs"/>
+    <ds:item>7</ds:item>
+    <ds:sitio>El Dorado</ds:sitio>
+    <ds:tipo>Restaurante</ds:tipo>
+    <ds:descripcion>Restaurante-bar comidas típicas  platos internacionales  Domicilios.</ds:descripcion>
+    <ds:ubicacion>Cra 7 #6-08</ds:ubicacion>
+    <ds:distancia_casco_urbano>Dentro casco urbano  esquina suroriental parque principal Simón Bolívar</ds:distancia_casco_urbano>
+    <ds:telefono>3682655    3207358246</ds:telefono>
+    <ds:email>daniel_ana77@hotmail.com</ds:email></dsbase:vf8y-2gvs></rdf:RDF>
