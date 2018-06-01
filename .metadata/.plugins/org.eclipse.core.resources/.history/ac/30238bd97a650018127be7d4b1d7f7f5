@@ -104,7 +104,7 @@ public class Login extends javax.swing.JFrame {
         }else{
             if(Autenticar.autenticacion(TextUserName.getText(), String.valueOf(TextPassword.getPassword()) )){
                 System.out.println("check, usuario logeado");
-                (new Datos()).setVisible(true);
+                //(new interfaz()).setVisible(true);
             }else{
                 errorLabel.setText("Usuario no registrado");
                 errorLabel.setVisible(true); 

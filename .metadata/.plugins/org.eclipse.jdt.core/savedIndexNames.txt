@@ -11,7 +11,6 @@ INDEX VERSION 1.127+C:\Users\Lenovo G40-80\Documents\GitHub\Sistema-de-Recomenda
 1040834888.index
 2184654513.index
 1036937572.index
-266733862.index
 1427289132.index
 3633471134.index
 2775717649.index
