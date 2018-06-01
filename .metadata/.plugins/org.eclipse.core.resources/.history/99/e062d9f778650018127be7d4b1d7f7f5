@@ -1,0 +1,15 @@
+import java.util.ArrayList;
+
+public class Autenticar {
+	public static boolean autenticacion(String username, String password){
+        ArrayList<Usuario> Usuarios = Usuarios.getActiveUsers();
+        for (int i = 0; i < Usuarios.size(); i++) {
+            if(Usuarios.get(i).getUserName().equals(username) && Usuarios.get(i).getPassword().equals(password)){
+                Usuarios.login(Usuarios.get(i));
+                return true;
+            }
+        }
+        return false;
+    }
+
+}
