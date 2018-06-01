@@ -52,9 +52,10 @@ public class Datos extends JFrame {
 	}
 	
 
-	
+
 	private ArrayList<Ciudad> datos() {
-		VirtGraph grafo = new VirtGraph ("onto","jdbc:virtuoso://18.219.194.215:1111", "dba", "dba"); 
+		//Acá se conecta con virtuoso, falta completar el jdbc
+		VirtGraph grafo = new VirtGraph ("onto","jdbc:virtuoso://x:1111", "dba", "dba");  
 		ArrayList<Ciudad> ciudades;
 		String sparqlQuery = "PREFIX onto:<http://www.SRIW-G11/ontology/>"  			
 				+ "PREFIX foaf:<http://www.SRIW-G11/ontology/>"
@@ -78,7 +79,7 @@ public class Datos extends JFrame {
                 String descripcion = soln.getLiteral("descripcion").getString();
                 String ubicacion = soln.getLiteral("ubicacion").getString();
                 String telefono = soln.getLiteral("telefono").getString();
-                ciudades.add(new Ciudad(nombre, descripcion, ubicacion, telefono));
+                //ciudades.add(new Ciudad(nombre, descripcion, ubicacion, telefono));
         	}
 		}finally {
 			vquery.close();
@@ -92,3 +93,4 @@ public class Datos extends JFrame {
 		//(new Calificar(puntos, vquery)).setVisible(true);
 	}
 }
+
